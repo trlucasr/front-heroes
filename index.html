@@ -10,10 +10,12 @@
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/album/">
 
-    
+    <!-- Axios -->
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script> 
+    <script src="index.js"></script>   
 
     <!-- Bootstrap core CSS -->
-<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -74,15 +76,15 @@
         <p class="lead text-muted">Aqui voce pode encontrar qualquer heroi, desde o mais novo ate o mais antigo. <br> Utilize o campo de pesquisa para encontrar o heroi desejado </p>
         <p>
 
-          <form class="col-lg-6 col-md-8 mx-auto">
+          <div class="col-lg-6 col-md-8 mx-auto" id="formBusca">
             <div class="mb-3">
               <label for="inputSearch" class="visually-hidden">Pesquisa</label>
               <input type="text" class="form-control" id="inputSearch" placeholder="Digite aqui o nome do heroi desejado">
             </div>
             <div class="mb-3">
-              <button type="submit" class="btn btn-primary mb-3">Encontrar</button>
+              <button onclick="buscarHerois()" class="btn btn-primary mb-3">Encontrar</button>
             </div>
-          </form>
+          </div>
 
         </p>
       </div>
@@ -92,7 +94,7 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="cardHeroi">
         <div class="col">
           <div class="card shadow-sm">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>

@@ -5,7 +5,9 @@ import requests
 
 app = FastAPI()
 
-origins = ["http://localhost:5500"]
+origins = ["http://localhost:5500"
+           ,"http://127.0.0.1:5500"
+           ] #era pra funcionar apenas com o localhost mas não funcionou
 
 app.add_middleware(
     CORSMiddleware,
@@ -22,7 +24,7 @@ def limpar_dados_busca(dados_sujos):
         nome = heroi["biography"]["full-name"]
         alter_ego = heroi["name"]
         img = heroi["image"]["url"]
-        dados_limpos.append({"nome" : nome, "alter-ego" : alter_ego, "img" : img})
+        dados_limpos.append({"nome" : nome, "alterego" : alter_ego, "img" : img})
     return dados_limpos
 
 
