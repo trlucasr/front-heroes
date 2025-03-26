@@ -1,13 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
-import requests
+import requests, json
+from webscrapping import BS
 
 app = FastAPI()
 
 origins = ["http://localhost:5500"
            ,"http://127.0.0.1:5500"
-           ] #era pra funcionar apenas com o localhost mas não funcionou
+           ] #porta do liveserver / apenas localhost não funcionou
 
 app.add_middleware(
     CORSMiddleware,
@@ -27,23 +27,30 @@ def limpar_dados_busca(dados_sujos):
         dados_limpos.append({"nome" : nome, "alterego" : alter_ego, "img" : img})
     return dados_limpos
 
+def limpar_dados_id(dados_sujos):
+    try: alter_ego = dados_sujos["name"]
+    except: alter_ego = ""
+
+    try: img = dados_sujos["image"]["url"]
+    except: img = ""
+
+    try: nome = dados_sujos.get("biography")["full-name"]
+    except: nome = ""
+
+    dados_limpos = {"nome" : nome, "alterego" : alter_ego, "img" : img}
+    return dados_limpos
+
+def salvar_ultimo_heroi(id):
+    with open("ultimo-heroi.json", "w") as arquivo:
+        arquivo.write(str(id))
+
+def ultimo_heroi_salvo():
+    with open("ultimo-heroi.json", "r") as arquivo:
+        return int(arquivo.read())
 
 @app.get("/")
 async def home():
     return {"Olá":"Mundo"}
-
-@app.get("/imc-heroi")
-def calcularImc(altura: float, peso: int):
-    return {"IMC":f"O IMC do herói é {peso / (altura / 100 * 2)}"}
-
-class Heroi(BaseModel):
-    nome: str
-    peso: int
-    altura: float
-
-@app.post("/heroi")
-def postagem(heroi: Heroi):
-    return {"Heroi": f"O(A) {heroi.nome} de altura {heroi.altura} e peso {heroi.peso} foi cadastrado(a) com sucesso."}
 
 @app.get("/buscar")
 def buscar_heroi(nome : str):
@@ -56,3 +63,23 @@ def buscar_heroi(nome : str):
         return dados_limpos
     else:
         return {"Erro:": "Não foi possível achar o herói"} 
+    
+@app.get("/atualizar-banco")
+def atualizar_banco():
+    #url = "https://superheroapi.com/ids.html"
+    #ultimo_heroi_api = BS.verificar_ultimo_heroi(url)
+    #if ultimo_heroi_api > ultimo_heroi_salvo():
+    #    salvar_ultimo_heroi(ultimo_heroi_api)
+    ultimo_heroi = ultimo_heroi_salvo()
+    
+    herois = []
+    for i in range(ultimo_heroi):
+        url = f"https://superheroapi.com/api/4315a5181d6f31a64e55172efb01bc64/{i}"
+        resposta = requests.get(url)
+        #if resposta.status_code == 200:
+        #    dados = resposta.json()
+        #    dados_limpos = limpar_dados_id(dados)
+        #    herois.append(dados_limpos)
+        herois.append(resposta.json())
+    
+    return herois
