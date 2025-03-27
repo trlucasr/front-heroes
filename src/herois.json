@@ -1,0 +1,4388 @@
+[
+    {
+        "id": 1,
+        "nome": "Richard Milhouse Jones",
+        "alterego": "A-Bomb",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Abraham Sapien",
+        "alterego": "Abe Sapien",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/956.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "",
+        "alterego": "Abin Sur",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Emil Blonsky",
+        "alterego": "Abomination",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Abraxas",
+        "alterego": "Abraxas",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/181.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Carl Creel",
+        "alterego": "Absorbing Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "",
+        "alterego": "Adam Monroe",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Adam Strange",
+        "alterego": "Adam Strange",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/626.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Sharon Carter",
+        "alterego": "Agent 13",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/167.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Bob",
+        "alterego": "Agent Bob",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Christoph Nord",
+        "alterego": "Agent Zero",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/396.jpg"
+    },
+    {
+        "id": 12,
+        "nome": "Gabriel Lan",
+        "alterego": "Air-Walker",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1358.jpg"
+    },
+    {
+        "id": 13,
+        "nome": "Francis",
+        "alterego": "Ajax",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Alan Ladd Wellington Scott",
+        "alterego": "Alan Scott",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/698.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Alexander J. Mercer",
+        "alterego": "Alex Mercer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10398.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Alex Woolsly",
+        "alterego": "Alex Woolsly",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1309.jpg"
+    },
+    {
+        "id": 17,
+        "nome": "Alfred Thaddeus Crane Pennyworth",
+        "alterego": "Alfred Pennyworth",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/628.jpg"
+    },
+    {
+        "id": 18,
+        "nome": "Xenomorph",
+        "alterego": "Alien",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10449.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "",
+        "alterego": "Allan Quatermain",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/630.jpg"
+    },
+    {
+        "id": 20,
+        "nome": "",
+        "alterego": "Amazo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1390.jpg"
+    },
+    {
+        "id": 21,
+        "nome": "",
+        "alterego": "Ammo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/184.jpg"
+    },
+    {
+        "id": 22,
+        "nome": "Ando Masahashi",
+        "alterego": "Ando Masahashi",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1310.jpg"
+    },
+    {
+        "id": 23,
+        "nome": "Liam",
+        "alterego": "Angel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10431.jpg"
+    },
+    {
+        "id": 24,
+        "nome": "Warren Kenneth Worthington III",
+        "alterego": "Angel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/829.jpg"
+    },
+    {
+        "id": 25,
+        "nome": "Christina",
+        "alterego": "Angel Dust",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10405.jpg"
+    },
+    {
+        "id": 26,
+        "nome": "Angel Salvadore Bohusk",
+        "alterego": "Angel Salvadore",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1406.jpg"
+    },
+    {
+        "id": 27,
+        "nome": "",
+        "alterego": "Angela",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1070.jpg"
+    },
+    {
+        "id": 28,
+        "nome": "Bernhard Baker",
+        "alterego": "Animal Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/632.jpg"
+    },
+    {
+        "id": 29,
+        "nome": "Annihilus",
+        "alterego": "Annihilus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1307.jpg"
+    },
+    {
+        "id": 30,
+        "nome": "Hank Pym",
+        "alterego": "Ant-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/857.jpg"
+    },
+    {
+        "id": 31,
+        "nome": "Scott Lang",
+        "alterego": "Ant-Man II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/166.jpg"
+    },
+    {
+        "id": 32,
+        "nome": "",
+        "alterego": "Anti-Monitor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1292.jpg"
+    },
+    {
+        "id": 33,
+        "nome": "Jason Wynn",
+        "alterego": "Anti-Spawn",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1071.jpg"
+    },
+    {
+        "id": 34,
+        "nome": "Eddie Brock",
+        "alterego": "Anti-Venom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1485.jpg"
+    },
+    {
+        "id": 35,
+        "nome": "En Sabah Nur",
+        "alterego": "Apocalypse",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/852.jpg"
+    },
+    {
+        "id": 36,
+        "nome": "Arthur Curry, Jr.",
+        "alterego": "Aquababy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1389.jpg"
+    },
+    {
+        "id": 37,
+        "nome": "Garth",
+        "alterego": "Aqualad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1395.jpg"
+    },
+    {
+        "id": 38,
+        "nome": "Orin",
+        "alterego": "Aquaman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/634.jpg"
+    },
+    {
+        "id": 39,
+        "nome": "Julia Carpenter",
+        "alterego": "Arachne",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/882.jpg"
+    },
+    {
+        "id": 40,
+        "nome": "Warren Kenneth Worthington III",
+        "alterego": "Archangel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/838.jpg"
+    },
+    {
+        "id": 41,
+        "nome": "Philippa Sontag",
+        "alterego": "Arclight",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/832.jpg"
+    },
+    {
+        "id": 42,
+        "nome": "Ardina",
+        "alterego": "Ardina",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10132.jpg"
+    },
+    {
+        "id": 43,
+        "nome": "",
+        "alterego": "Ares",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1118.jpg"
+    },
+    {
+        "id": 44,
+        "nome": "Ariel",
+        "alterego": "Ariel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1348.jpg"
+    },
+    {
+        "id": 45,
+        "nome": "Hisako Ichiki",
+        "alterego": "Armor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1347.jpg"
+    },
+    {
+        "id": 46,
+        "nome": "Roy William Harper, Jr.",
+        "alterego": "Arsenal",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1014.jpg"
+    },
+    {
+        "id": 47,
+        "nome": "Atom",
+        "alterego": "Astro Boy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1159.jpg"
+    },
+    {
+        "id": 48,
+        "nome": "Erik Josten",
+        "alterego": "Atlas",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/878.jpg"
+    },
+    {
+        "id": 49,
+        "nome": "",
+        "alterego": "Atlas",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10838.jpg"
+    },
+    {
+        "id": 50,
+        "nome": "Albert Pratt",
+        "alterego": "Atom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/934.jpg"
+    },
+    {
+        "id": 51,
+        "nome": "",
+        "alterego": "Atom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1379.jpg"
+    },
+    {
+        "id": 52,
+        "nome": "Salu Digby",
+        "alterego": "Atom Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1180.jpg"
+    },
+    {
+        "id": 53,
+        "nome": "Ray Palmer",
+        "alterego": "Atom II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/938.jpg"
+    },
+    {
+        "id": 54,
+        "nome": "Adam Cray",
+        "alterego": "Atom III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/939.jpg"
+    },
+    {
+        "id": 55,
+        "nome": "Ryan Choi",
+        "alterego": "Atom IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/940.jpg"
+    },
+    {
+        "id": 56,
+        "nome": "Jeanne-Marie Beaubier",
+        "alterego": "Aurora",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1289.jpg"
+    },
+    {
+        "id": 57,
+        "nome": "",
+        "alterego": "Azazel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1481.jpg"
+    },
+    {
+        "id": 58,
+        "nome": "Michael Washington Lane",
+        "alterego": "Azrael",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1532.jpg"
+    },
+    {
+        "id": 59,
+        "nome": "Aztar",
+        "alterego": "Aztar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1012.jpg"
+    },
+    {
+        "id": 60,
+        "nome": "",
+        "alterego": "Bane",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/637.jpg"
+    },
+    {
+        "id": 61,
+        "nome": "Sean Cassidy",
+        "alterego": "Banshee",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/26.jpg"
+    },
+    {
+        "id": 62,
+        "nome": "Roberto Velasquez",
+        "alterego": "Bantam",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/229.jpg"
+    },
+    {
+        "id": 63,
+        "nome": "Barbara Gordon",
+        "alterego": "Batgirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1111.jpg"
+    },
+    {
+        "id": 64,
+        "nome": "Mary Elizabeth Kane",
+        "alterego": "Batgirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/638.jpg"
+    },
+    {
+        "id": 65,
+        "nome": "Helena Rosa Bertinelli",
+        "alterego": "Batgirl III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1112.jpg"
+    },
+    {
+        "id": 66,
+        "nome": "Cassandra Cain",
+        "alterego": "Batgirl IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1113.jpg"
+    },
+    {
+        "id": 67,
+        "nome": "Charlotte Gage-Radcliffe",
+        "alterego": "Batgirl V",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1115.jpg"
+    },
+    {
+        "id": 68,
+        "nome": "Stephanie Brown",
+        "alterego": "Batgirl VI",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg"
+    },
+    {
+        "id": 69,
+        "nome": "Terry McGinnis",
+        "alterego": "Batman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10441.jpg"
+    },
+    {
+        "id": 70,
+        "nome": "Bruce Wayne",
+        "alterego": "Batman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+    },
+    {
+        "id": 71,
+        "nome": "Dick Grayson",
+        "alterego": "Batman II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg"
+    },
+    {
+        "id": 72,
+        "nome": "Lemar Hoskins",
+        "alterego": "Battlestar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/231.jpg"
+    },
+    {
+        "id": 73,
+        "nome": "Katherine Rebecca Kane",
+        "alterego": "Batwoman V",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10234.jpg"
+    },
+    {
+        "id": 74,
+        "nome": "Barnell Bohusk",
+        "alterego": "Beak",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/232.jpg"
+    },
+    {
+        "id": 75,
+        "nome": "Henry Philip McCoy",
+        "alterego": "Beast",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/27.jpg"
+    },
+    {
+        "id": 76,
+        "nome": "Garfield Mark Logan",
+        "alterego": "Beast Boy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/640.jpg"
+    },
+    {
+        "id": 77,
+        "nome": "",
+        "alterego": "Beetle",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1122.jpg"
+    },
+    {
+        "id": 78,
+        "nome": "Benjamin Kirby Tennyson",
+        "alterego": "Ben 10",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1365.jpg"
+    },
+    {
+        "id": 79,
+        "nome": "Beta Ray Bill (translation of his Korbinite name)",
+        "alterego": "Beta Ray Bill",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/28.jpg"
+    },
+    {
+        "id": 80,
+        "nome": "",
+        "alterego": "Beyonder",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1293.jpg"
+    },
+    {
+        "id": 81,
+        "nome": "Barda Free",
+        "alterego": "Big Barda",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1169.jpg"
+    },
+    {
+        "id": 82,
+        "nome": "Damon Macready",
+        "alterego": "Big Daddy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1338.jpg"
+    },
+    {
+        "id": 83,
+        "nome": "Frederick Foswell",
+        "alterego": "Big Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1038.jpg"
+    },
+    {
+        "id": 84,
+        "nome": "",
+        "alterego": "Bill Harken",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1527.jpg"
+    },
+    {
+        "id": 85,
+        "nome": "Billy Kincaid",
+        "alterego": "Billy Kincaid",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1072.jpg"
+    },
+    {
+        "id": 86,
+        "nome": "Carol Danvers",
+        "alterego": "Binary",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/30.jpg"
+    },
+    {
+        "id": 87,
+        "nome": "Jamie Sommers",
+        "alterego": "Bionic Woman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10648.jpg"
+    },
+    {
+        "id": 88,
+        "nome": "",
+        "alterego": "Bird-Brain",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/240.jpg"
+    },
+    {
+        "id": 89,
+        "nome": "Henry Hawk",
+        "alterego": "Bird-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1503.jpg"
+    },
+    {
+        "id": 90,
+        "nome": "Achille DiBacco",
+        "alterego": "Bird-Man II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1504.jpg"
+    },
+    {
+        "id": 91,
+        "nome": "Ray Randal",
+        "alterego": "Birdman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1506.jpg"
+    },
+    {
+        "id": 92,
+        "nome": "Lucas Bishop",
+        "alterego": "Bishop",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/31.jpg"
+    },
+    {
+        "id": 93,
+        "nome": "Bizarro",
+        "alterego": "Bizarro",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/642.jpg"
+    },
+    {
+        "id": 94,
+        "nome": "",
+        "alterego": "Black Abbott",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1049.jpg"
+    },
+    {
+        "id": 95,
+        "nome": "Teth-Adam",
+        "alterego": "Black Adam",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/643.jpg"
+    },
+    {
+        "id": 96,
+        "nome": "Blackagar Boltagon",
+        "alterego": "Black Bolt",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/243.jpg"
+    },
+    {
+        "id": 97,
+        "nome": "Laurel Lance",
+        "alterego": "Black Canary",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1005.jpg"
+    },
+    {
+        "id": 98,
+        "nome": "Dinah Drake Lance",
+        "alterego": "Black Canary",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/644.jpg"
+    },
+    {
+        "id": 99,
+        "nome": "Felicia Hardy",
+        "alterego": "Black Cat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/32.jpg"
+    },
+    {
+        "id": 100,
+        "nome": "",
+        "alterego": "Black Flash",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10831.jpg"
+    },
+    {
+        "id": 101,
+        "nome": "",
+        "alterego": "Black Goliath",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/245.jpg"
+    },
+    {
+        "id": 102,
+        "nome": "Dane Whitman",
+        "alterego": "Black Knight III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/246.jpg"
+    },
+    {
+        "id": 103,
+        "nome": "Jefferson Pierce",
+        "alterego": "Black Lightning",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1128.jpg"
+    },
+    {
+        "id": 104,
+        "nome": "Tanya Sealy",
+        "alterego": "Black Mamba",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1106.jpg"
+    },
+    {
+        "id": 105,
+        "nome": "David",
+        "alterego": "Black Manta",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10546.jpg"
+    },
+    {
+        "id": 106,
+        "nome": "T'Challa",
+        "alterego": "Black Panther",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/247.jpg"
+    },
+    {
+        "id": 107,
+        "nome": "Natasha Romanoff",
+        "alterego": "Black Widow",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/248.jpg"
+    },
+    {
+        "id": 108,
+        "nome": "Yelena Belova",
+        "alterego": "Black Widow II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/618.jpg"
+    },
+    {
+        "id": 109,
+        "nome": "",
+        "alterego": "Blackout",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1507.jpg"
+    },
+    {
+        "id": 110,
+        "nome": "Joseph Manfredi",
+        "alterego": "Blackwing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/249.jpg"
+    },
+    {
+        "id": 111,
+        "nome": "Lucian",
+        "alterego": "Blackwulf",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1508.jpg"
+    },
+    {
+        "id": 112,
+        "nome": "Eric Brooks",
+        "alterego": "Blade",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/33.jpg"
+    },
+    {
+        "id": 113,
+        "nome": "-",
+        "alterego": "Blaquesmith",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/34.jpg"
+    },
+    {
+        "id": 114,
+        "nome": "Roxanne Washington",
+        "alterego": "Bling!",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1349.jpg"
+    },
+    {
+        "id": 115,
+        "nome": "Clarice Ferguson",
+        "alterego": "Blink",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/35.jpg"
+    },
+    {
+        "id": 116,
+        "nome": "Gregor Shapanka",
+        "alterego": "Blizzard",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/899.jpg"
+    },
+    {
+        "id": 117,
+        "nome": "",
+        "alterego": "Blizzard",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/898.jpg"
+    },
+    {
+        "id": 118,
+        "nome": "Donald Gill",
+        "alterego": "Blizzard II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/619.jpg"
+    },
+    {
+        "id": 119,
+        "nome": "Frederick J. Dukes",
+        "alterego": "Blob",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1119.jpg"
+    },
+    {
+        "id": 120,
+        "nome": "Jackie Lukus",
+        "alterego": "Bloodaxe",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1509.jpg"
+    },
+    {
+        "id": 121,
+        "nome": "Lemuel Krug",
+        "alterego": "Bloodhawk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1510.jpg"
+    },
+    {
+        "id": 122,
+        "nome": "Sean Dolan",
+        "alterego": "Bloodwraith",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/186.jpg"
+    },
+    {
+        "id": 123,
+        "nome": "Daniel Garrett",
+        "alterego": "Blue Beetle",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/646.jpg"
+    },
+    {
+        "id": 124,
+        "nome": "",
+        "alterego": "Blue Beetle",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1010.jpg"
+    },
+    {
+        "id": 125,
+        "nome": "Theodore Kord",
+        "alterego": "Blue Beetle II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1008.jpg"
+    },
+    {
+        "id": 126,
+        "nome": "Jaime Reyes",
+        "alterego": "Blue Beetle III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1009.jpg"
+    },
+    {
+        "id": 127,
+        "nome": "",
+        "alterego": "Boba Fett",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10467.jpg"
+    },
+    {
+        "id": 128,
+        "nome": "",
+        "alterego": "Bolt",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1340.jpg"
+    },
+    {
+        "id": 129,
+        "nome": "",
+        "alterego": "Bomb Queen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1116.jpg"
+    },
+    {
+        "id": 130,
+        "nome": "Tabitha Smith",
+        "alterego": "Boom-Boom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/400.jpg"
+    },
+    {
+        "id": 131,
+        "nome": "",
+        "alterego": "Boomer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/259.jpg"
+    },
+    {
+        "id": 132,
+        "nome": "Michael Jon Carter",
+        "alterego": "Booster Gold",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/647.jpg"
+    },
+    {
+        "id": 133,
+        "nome": "Roger Bochs",
+        "alterego": "Box",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/864.jpg"
+    },
+    {
+        "id": 134,
+        "nome": "Dr. Walter Langowski",
+        "alterego": "Box III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/37.jpg"
+    },
+    {
+        "id": 135,
+        "nome": "Madison Jeffries",
+        "alterego": "Box IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/38.jpg"
+    },
+    {
+        "id": 136,
+        "nome": "Vril Dox",
+        "alterego": "Brainiac",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/648.jpg"
+    },
+    {
+        "id": 137,
+        "nome": "Querl Dox",
+        "alterego": "Brainiac 5",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1183.jpg"
+    },
+    {
+        "id": 138,
+        "nome": "Jericho Drumm",
+        "alterego": "Brother Voodoo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/39.jpg"
+    },
+    {
+        "id": 139,
+        "nome": "Seth Brundle",
+        "alterego": "Brundlefly",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10642.jpg"
+    },
+    {
+        "id": 140,
+        "nome": "Buffy Anne Summers",
+        "alterego": "Buffy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10430.jpg"
+    },
+    {
+        "id": 141,
+        "nome": "Lester",
+        "alterego": "Bullseye",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/624.jpg"
+    },
+    {
+        "id": 142,
+        "nome": "Karen Beecher",
+        "alterego": "Bumblebee",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1542.jpg"
+    },
+    {
+        "id": 143,
+        "nome": "",
+        "alterego": "Bumbleboy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1346.jpg"
+    },
+    {
+        "id": 144,
+        "nome": "Ryuko Orsono",
+        "alterego": "Bushido",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1541.jpg"
+    },
+    {
+        "id": 145,
+        "nome": "Nathan Summers",
+        "alterego": "Cable",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/40.jpg"
+    },
+    {
+        "id": 146,
+        "nome": "Callisto",
+        "alterego": "Callisto",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/271.jpg"
+    },
+    {
+        "id": 147,
+        "nome": "",
+        "alterego": "Cameron Hicks",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1528.jpg"
+    },
+    {
+        "id": 148,
+        "nome": "Samuel Zachery Guthrie",
+        "alterego": "Cannonball",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/272.jpg"
+    },
+    {
+        "id": 149,
+        "nome": "Steve Rogers",
+        "alterego": "Captain America",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
+    },
+    {
+        "id": 150,
+        "nome": "Nathaniel Adam",
+        "alterego": "Captain Atom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1007.jpg"
+    },
+    {
+        "id": 151,
+        "nome": "Brian Braddock",
+        "alterego": "Captain Britain",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/276.jpg"
+    },
+    {
+        "id": 152,
+        "nome": "Leonard Snart",
+        "alterego": "Captain Cold",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/653.jpg"
+    },
+    {
+        "id": 153,
+        "nome": "",
+        "alterego": "Captain Epic",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/3.jpg"
+    },
+    {
+        "id": 154,
+        "nome": "Jack Brolin",
+        "alterego": "Captain Hindsight",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10399.jpg"
+    },
+    {
+        "id": 155,
+        "nome": "Mar-Vell",
+        "alterego": "Captain Mar-vell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/654.jpg"
+    },
+    {
+        "id": 156,
+        "nome": "Billy Batson",
+        "alterego": "Captain Marvel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/278.jpg"
+    },
+    {
+        "id": 157,
+        "nome": "Carol Danvers",
+        "alterego": "Captain Marvel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/103.jpg"
+    },
+    {
+        "id": 158,
+        "nome": "Frederick Christopher Freeman",
+        "alterego": "Captain Marvel II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/279.jpg"
+    },
+    {
+        "id": 159,
+        "nome": "",
+        "alterego": "Captain Midnight",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10443.jpg"
+    },
+    {
+        "id": 160,
+        "nome": "",
+        "alterego": "Captain Planet",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1285.jpg"
+    },
+    {
+        "id": 161,
+        "nome": "",
+        "alterego": "Captain Universe",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/855.jpg"
+    },
+    {
+        "id": 162,
+        "nome": "Cletus Kasady",
+        "alterego": "Carnage",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/187.jpg"
+    },
+    {
+        "id": 163,
+        "nome": "Shirlee Bryant",
+        "alterego": "Cat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/904.jpg"
+    },
+    {
+        "id": 164,
+        "nome": "",
+        "alterego": "Cat II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/903.jpg"
+    },
+    {
+        "id": 165,
+        "nome": "Selina Kyle",
+        "alterego": "Catwoman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg"
+    },
+    {
+        "id": 166,
+        "nome": "Dr. Cecilia Reyes",
+        "alterego": "Cecilia Reyes",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/43.jpg"
+    },
+    {
+        "id": 167,
+        "nome": "",
+        "alterego": "Century",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1511.jpg"
+    },
+    {
+        "id": 168,
+        "nome": "Shakti Haddad",
+        "alterego": "Cerebra",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1512.jpg"
+    },
+    {
+        "id": 169,
+        "nome": "Jonothon Evan Starsmore",
+        "alterego": "Chamber",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/44.jpg"
+    },
+    {
+        "id": 170,
+        "nome": "Dmitri Anatoly Smerdyakov Kravinoff",
+        "alterego": "Chameleon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/660.jpg"
+    },
+    {
+        "id": 171,
+        "nome": "Kevin Sidney",
+        "alterego": "Changeling",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1107.jpg"
+    },
+    {
+        "id": 172,
+        "nome": "Priscilla Rich",
+        "alterego": "Cheetah",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/661.jpg"
+    },
+    {
+        "id": 173,
+        "nome": "Deborah Domaine",
+        "alterego": "Cheetah II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/925.jpg"
+    },
+    {
+        "id": 174,
+        "nome": "Barbara Minerva",
+        "alterego": "Cheetah III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/926.jpg"
+    },
+    {
+        "id": 175,
+        "nome": "Bernard Embers",
+        "alterego": "Chromos",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1001.jpg"
+    },
+    {
+        "id": 176,
+        "nome": "Carlos Ray Norris",
+        "alterego": "Chuck Norris",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/954.jpg"
+    },
+    {
+        "id": 177,
+        "nome": "Nathan Heywood",
+        "alterego": "Citizen Steel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10661.jpg"
+    },
+    {
+        "id": 178,
+        "nome": "Claire Bennet",
+        "alterego": "Claire Bennet",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/941.jpg"
+    },
+    {
+        "id": 179,
+        "nome": "Clea",
+        "alterego": "Clea",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/45.jpg"
+    },
+    {
+        "id": 180,
+        "nome": "Tyrone Johnson",
+        "alterego": "Cloak",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/46.jpg"
+    },
+    {
+        "id": 181,
+        "nome": "William Tockman",
+        "alterego": "Clock King",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10396.jpg"
+    },
+    {
+        "id": 182,
+        "nome": "Cain",
+        "alterego": "Cogliostro",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1074.jpg"
+    },
+    {
+        "id": 183,
+        "nome": "",
+        "alterego": "Colin Wagner",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1153.jpg"
+    },
+    {
+        "id": 184,
+        "nome": "",
+        "alterego": "Colossal Boy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1182.jpg"
+    },
+    {
+        "id": 185,
+        "nome": "Piotr Nikolaievitch Rasputin",
+        "alterego": "Colossus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/48.jpg"
+    },
+    {
+        "id": 186,
+        "nome": "Vanessa Carlysle",
+        "alterego": "Copycat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10423.jpg"
+    },
+    {
+        "id": 187,
+        "nome": "Christopher Summers",
+        "alterego": "Corsair",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/49.jpg"
+    },
+    {
+        "id": 188,
+        "nome": "Burchell Clemens",
+        "alterego": "Cottonmouth",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10452.jpg"
+    },
+    {
+        "id": 189,
+        "nome": "Rory Destine",
+        "alterego": "Crimson Crusader",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/303.jpg"
+    },
+    {
+        "id": 190,
+        "nome": "Anton Vanko",
+        "alterego": "Crimson Dynamo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1093.jpg"
+    },
+    {
+        "id": 191,
+        "nome": "Crystallia Amaquelin",
+        "alterego": "Crystal",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/305.jpg"
+    },
+    {
+        "id": 192,
+        "nome": "Phillip Krahn",
+        "alterego": "Curse",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1066.jpg"
+    },
+    {
+        "id": 193,
+        "nome": "",
+        "alterego": "Cy-Gor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1075.jpg"
+    },
+    {
+        "id": 194,
+        "nome": "Victor Stone",
+        "alterego": "Cyborg",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1204.jpg"
+    },
+    {
+        "id": 195,
+        "nome": "Henry Henshaw",
+        "alterego": "Cyborg Superman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/667.jpg"
+    },
+    {
+        "id": 196,
+        "nome": "Scott Summers",
+        "alterego": "Cyclops",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/50.jpg"
+    },
+    {
+        "id": 197,
+        "nome": "Douglas Aaron Ramsey",
+        "alterego": "Cypher",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/168.jpg"
+    },
+    {
+        "id": 198,
+        "nome": "Tandy Bowen",
+        "alterego": "Dagger",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/51.jpg"
+    },
+    {
+        "id": 199,
+        "nome": "",
+        "alterego": "Danny Cooper",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1152.jpg"
+    },
+    {
+        "id": 200,
+        "nome": "Daphne Powell",
+        "alterego": "Daphne Powell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1356.jpg"
+    },
+    {
+        "id": 201,
+        "nome": "Matt Murdock",
+        "alterego": "Daredevil",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/52.jpg"
+    },
+    {
+        "id": 202,
+        "nome": "Christopher Powell",
+        "alterego": "Darkhawk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/53.jpg"
+    },
+    {
+        "id": 203,
+        "nome": "Peyton Westlake",
+        "alterego": "Darkman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1126.jpg"
+    },
+    {
+        "id": 204,
+        "nome": "Uxas",
+        "alterego": "Darkseid",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/668.jpg"
+    },
+    {
+        "id": 205,
+        "nome": "",
+        "alterego": "Darkside",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/840.jpg"
+    },
+    {
+        "id": 206,
+        "nome": "Laynia Petrovna",
+        "alterego": "Darkstar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/169.jpg"
+    },
+    {
+        "id": 207,
+        "nome": "",
+        "alterego": "Darth Maul",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10464.jpg"
+    },
+    {
+        "id": 208,
+        "nome": "Anakin Skywalker",
+        "alterego": "Darth Vader",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10444.jpg"
+    },
+    {
+        "id": 209,
+        "nome": "Dashiell Robert Parr",
+        "alterego": "Dash",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/824.jpg"
+    },
+    {
+        "id": 210,
+        "nome": "Data",
+        "alterego": "Data",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10577.jpg"
+    },
+    {
+        "id": 211,
+        "nome": "Alison Blaire",
+        "alterego": "Dazzler",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1043.jpg"
+    },
+    {
+        "id": 212,
+        "nome": "Boston Brand",
+        "alterego": "Deadman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1472.jpg"
+    },
+    {
+        "id": 213,
+        "nome": "Wade Wilson",
+        "alterego": "Deadpool",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/835.jpg"
+    },
+    {
+        "id": 214,
+        "nome": "Floyd Lawton",
+        "alterego": "Deadshot",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/670.jpg"
+    },
+    {
+        "id": 215,
+        "nome": "Luther Manning",
+        "alterego": "Deathlok",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1304.jpg"
+    },
+    {
+        "id": 216,
+        "nome": "Slade Joseph Wilson",
+        "alterego": "Deathstroke",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/672.jpg"
+    },
+    {
+        "id": 217,
+        "nome": "",
+        "alterego": "Demogoblin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1515.jpg"
+    },
+    {
+        "id": 218,
+        "nome": "",
+        "alterego": "Destroyer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1294.jpg"
+    },
+    {
+        "id": 219,
+        "nome": "Willis Stryker",
+        "alterego": "Diamondback",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1404.jpg"
+    },
+    {
+        "id": 220,
+        "nome": "Daniel Lawrence Hawkins",
+        "alterego": "DL Hawkins",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/943.jpg"
+    },
+    {
+        "id": 221,
+        "nome": "Leonard Samson",
+        "alterego": "Doc Samson",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/54.jpg"
+    },
+    {
+        "id": 222,
+        "nome": "Victor von Doom",
+        "alterego": "Doctor Doom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/189.jpg"
+    },
+    {
+        "id": 223,
+        "nome": "Kristoff Vernard",
+        "alterego": "Doctor Doom II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1018.jpg"
+    },
+    {
+        "id": 224,
+        "nome": "Kent Nelson",
+        "alterego": "Doctor Fate",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/676.jpg"
+    },
+    {
+        "id": 225,
+        "nome": "Otto Octavius",
+        "alterego": "Doctor Octopus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/622.jpg"
+    },
+    {
+        "id": 226,
+        "nome": "Stephen Strange",
+        "alterego": "Doctor Strange",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/55.jpg"
+    },
+    {
+        "id": 227,
+        "nome": "Neena Thurman",
+        "alterego": "Domino",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/902.jpg"
+    },
+    {
+        "id": 228,
+        "nome": "",
+        "alterego": "Donatello",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10330.jpg"
+    },
+    {
+        "id": 229,
+        "nome": "Donna Hinckley Stacey Troy",
+        "alterego": "Donna Troy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/806.jpg"
+    },
+    {
+        "id": 230,
+        "nome": "Doomsday",
+        "alterego": "Doomsday",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/679.jpg"
+    },
+    {
+        "id": 231,
+        "nome": "",
+        "alterego": "Doppelganger",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1320.jpg"
+    },
+    {
+        "id": 232,
+        "nome": "Dormammu",
+        "alterego": "Dormammu",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1359.jpg"
+    },
+    {
+        "id": 233,
+        "nome": "Jonathan Osterman",
+        "alterego": "Dr Manhattan",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/884.jpg"
+    },
+    {
+        "id": 234,
+        "nome": "Arthur Sampson Douglas",
+        "alterego": "Drax the Destroyer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10016.jpg"
+    },
+    {
+        "id": 235,
+        "nome": "Ego",
+        "alterego": "Ego",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/6.jpg"
+    },
+    {
+        "id": 236,
+        "nome": "Helen Parr",
+        "alterego": "Elastigirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/870.jpg"
+    },
+    {
+        "id": 237,
+        "nome": "Maxwell Dillon",
+        "alterego": "Electro",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/7.jpg"
+    },
+    {
+        "id": 238,
+        "nome": "Elektra Natchios",
+        "alterego": "Elektra",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/625.jpg"
+    },
+    {
+        "id": 239,
+        "nome": "",
+        "alterego": "Elle Bishop",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1021.jpg"
+    },
+    {
+        "id": 240,
+        "nome": "Ralph Dibny",
+        "alterego": "Elongated Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1381.jpg"
+    },
+    {
+        "id": 241,
+        "nome": "Emma Frost",
+        "alterego": "Emma Frost",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/325.jpg"
+    },
+    {
+        "id": 242,
+        "nome": "June Moone",
+        "alterego": "Enchantress",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/687.jpg"
+    },
+    {
+        "id": 243,
+        "nome": "",
+        "alterego": "Energy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1155.jpg"
+    },
+    {
+        "id": 244,
+        "nome": "",
+        "alterego": "ERG-1",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1187.jpg"
+    },
+    {
+        "id": 245,
+        "nome": "Ethan Hunt",
+        "alterego": "Ethan Hunt",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10476.jpg"
+    },
+    {
+        "id": 246,
+        "nome": "Jason Blood",
+        "alterego": "Etrigan",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10429.jpg"
+    },
+    {
+        "id": 247,
+        "nome": "Wade Wilson",
+        "alterego": "Evil Deadpool",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10090.jpg"
+    },
+    {
+        "id": 248,
+        "nome": "Dargin Bokk",
+        "alterego": "Evilhawk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1516.jpg"
+    },
+    {
+        "id": 249,
+        "nome": "Bennet du Paris",
+        "alterego": "Exodus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1517.jpg"
+    },
+    {
+        "id": 250,
+        "nome": "Fabian Cortez",
+        "alterego": "Fabian Cortez",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/24.jpg"
+    },
+    {
+        "id": 251,
+        "nome": "Sam Wilson",
+        "alterego": "Falcon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/56.jpg"
+    },
+    {
+        "id": 252,
+        "nome": "",
+        "alterego": "Fallen One II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1051.jpg"
+    },
+    {
+        "id": 253,
+        "nome": "Faora Hu-Ul",
+        "alterego": "Faora",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1502.jpg"
+    },
+    {
+        "id": 254,
+        "nome": "Maria Callasantos",
+        "alterego": "Feral",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/57.jpg"
+    },
+    {
+        "id": 255,
+        "nome": "Carol Carter",
+        "alterego": "Fighting Spirit",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1167.jpg"
+    },
+    {
+        "id": 256,
+        "nome": "",
+        "alterego": "Fin Fang Foom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1518.jpg"
+    },
+    {
+        "id": 257,
+        "nome": "Bonita Juarez",
+        "alterego": "Firebird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/58.jpg"
+    },
+    {
+        "id": 258,
+        "nome": "Pyreus Kril",
+        "alterego": "Firelord",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/59.jpg"
+    },
+    {
+        "id": 259,
+        "nome": "Angelica Jones",
+        "alterego": "Firestar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/60.jpg"
+    },
+    {
+        "id": 260,
+        "nome": "Jason Rusch",
+        "alterego": "Firestorm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/689.jpg"
+    },
+    {
+        "id": 261,
+        "nome": "Ronald Raymond",
+        "alterego": "Firestorm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10395.jpg"
+    },
+    {
+        "id": 262,
+        "nome": "Paul Norbert Ebersol",
+        "alterego": "Fixer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/9.jpg"
+    },
+    {
+        "id": 263,
+        "nome": "Jay Garrick",
+        "alterego": "Flash",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/891.jpg"
+    },
+    {
+        "id": 264,
+        "nome": "Steven Gordon",
+        "alterego": "Flash Gordon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1345.jpg"
+    },
+    {
+        "id": 265,
+        "nome": "Barry Allen",
+        "alterego": "Flash II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/892.jpg"
+    },
+    {
+        "id": 266,
+        "nome": "Wally West",
+        "alterego": "Flash III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/690.jpg"
+    },
+    {
+        "id": 267,
+        "nome": "Bartholomew Allen II",
+        "alterego": "Flash IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/893.jpg"
+    },
+    {
+        "id": 268,
+        "nome": "",
+        "alterego": "Forge",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/62.jpg"
+    },
+    {
+        "id": 269,
+        "nome": "Franklin  Richards",
+        "alterego": "Franklin Richards",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/63.jpg"
+    },
+    {
+        "id": 270,
+        "nome": "Dr. Franklin Storm",
+        "alterego": "Franklin Storm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/170.jpg"
+    },
+    {
+        "id": 271,
+        "nome": "Joanna Cargill",
+        "alterego": "Frenzy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1108.jpg"
+    },
+    {
+        "id": 272,
+        "nome": "Frigga",
+        "alterego": "Frigga",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/172.jpg"
+    },
+    {
+        "id": 273,
+        "nome": "Galan",
+        "alterego": "Galactus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/862.jpg"
+    },
+    {
+        "id": 274,
+        "nome": "Remy Etienne LeBeau",
+        "alterego": "Gambit",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/64.jpg"
+    },
+    {
+        "id": 275,
+        "nome": "Gamora Zen Whoberi Ben Titan",
+        "alterego": "Gamora",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/65.jpg"
+    },
+    {
+        "id": 276,
+        "nome": "Richard Ethan Morse",
+        "alterego": "Garbage Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1467.jpg"
+    },
+    {
+        "id": 277,
+        "nome": "Gary Bell",
+        "alterego": "Gary Bell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1526.jpg"
+    },
+    {
+        "id": 278,
+        "nome": "Dru-Zod",
+        "alterego": "General Zod",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/837.jpg"
+    },
+    {
+        "id": 279,
+        "nome": "Tyler Dayspring",
+        "alterego": "Genesis",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1055.jpg"
+    },
+    {
+        "id": 280,
+        "nome": "Johnny Blaze",
+        "alterego": "Ghost Rider",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/67.jpg"
+    },
+    {
+        "id": 281,
+        "nome": "Daniel Ketch",
+        "alterego": "Ghost Rider II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/68.jpg"
+    },
+    {
+        "id": 282,
+        "nome": "Hank Pym",
+        "alterego": "Giant-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/858.jpg"
+    },
+    {
+        "id": 283,
+        "nome": "",
+        "alterego": "Giant-Man II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/343.jpg"
+    },
+    {
+        "id": 284,
+        "nome": "Doris Zuel",
+        "alterego": "Giganta",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1376.jpg"
+    },
+    {
+        "id": 285,
+        "nome": "Kallark",
+        "alterego": "Gladiator",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1521.jpg"
+    },
+    {
+        "id": 286,
+        "nome": "Madelyne Jennifer Pryor",
+        "alterego": "Goblin Queen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1054.jpg"
+    },
+    {
+        "id": 287,
+        "nome": "Gojira",
+        "alterego": "Godzilla",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10590.jpg"
+    },
+    {
+        "id": 288,
+        "nome": "",
+        "alterego": "Gog",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/693.jpg"
+    },
+    {
+        "id": 289,
+        "nome": "Kakarot",
+        "alterego": "Goku",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1284.jpg"
+    },
+    {
+        "id": 290,
+        "nome": "Erik Josten",
+        "alterego": "Goliath",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/845.jpg"
+    },
+    {
+        "id": 291,
+        "nome": "Clint Barton",
+        "alterego": "Goliath",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/847.jpg"
+    },
+    {
+        "id": 292,
+        "nome": "Hank Pym",
+        "alterego": "Goliath",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/846.jpg"
+    },
+    {
+        "id": 293,
+        "nome": "William Barrett Foster",
+        "alterego": "Goliath IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/879.jpg"
+    },
+    {
+        "id": 294,
+        "nome": "Grodd",
+        "alterego": "Gorilla Grodd",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/694.jpg"
+    },
+    {
+        "id": 295,
+        "nome": "",
+        "alterego": "Granny Goodness",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
+    },
+    {
+        "id": 296,
+        "nome": "Greg Willis",
+        "alterego": "Gravity",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/74.jpg"
+    },
+    {
+        "id": 297,
+        "nome": "Greedo",
+        "alterego": "Greedo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10468.jpg"
+    },
+    {
+        "id": 298,
+        "nome": "Oliver Queen",
+        "alterego": "Green Arrow",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/696.jpg"
+    },
+    {
+        "id": 299,
+        "nome": "Norman Osborn",
+        "alterego": "Green Goblin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/579.jpg"
+    },
+    {
+        "id": 300,
+        "nome": "Harold Osborn",
+        "alterego": "Green Goblin II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/25.jpg"
+    },
+    {
+        "id": 301,
+        "nome": "Barton Hamilton",
+        "alterego": "Green Goblin III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/351.jpg"
+    },
+    {
+        "id": 302,
+        "nome": "Phillip Benjamin Urich",
+        "alterego": "Green Goblin IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/75.jpg"
+    },
+    {
+        "id": 303,
+        "nome": "Groot",
+        "alterego": "Groot",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10017.jpg"
+    },
+    {
+        "id": 304,
+        "nome": "James Hudson",
+        "alterego": "Guardian",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/76.jpg"
+    },
+    {
+        "id": 305,
+        "nome": "Guy Gardner",
+        "alterego": "Guy Gardner",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/700.jpg"
+    },
+    {
+        "id": 306,
+        "nome": "Hal Jordan",
+        "alterego": "Hal Jordan",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/697.jpg"
+    },
+    {
+        "id": 307,
+        "nome": "Han Solo",
+        "alterego": "Han Solo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10456.jpg"
+    },
+    {
+        "id": 308,
+        "nome": "John Hancock",
+        "alterego": "Hancock",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1109.jpg"
+    },
+    {
+        "id": 309,
+        "nome": "Harley Quinn",
+        "alterego": "Harley Quinn",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/701.jpg"
+    },
+    {
+        "id": 310,
+        "nome": "Harry James Potter",
+        "alterego": "Harry Potter",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10878.jpg"
+    },
+    {
+        "id": 311,
+        "nome": "Alexander Summers",
+        "alterego": "Havok",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/77.jpg"
+    },
+    {
+        "id": 312,
+        "nome": "Henry Hall",
+        "alterego": "Hawk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1382.jpg"
+    },
+    {
+        "id": 313,
+        "nome": "Clint Barton",
+        "alterego": "Hawkeye",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/73.jpg"
+    },
+    {
+        "id": 314,
+        "nome": "Katherine Elizabeth Bishop",
+        "alterego": "Hawkeye II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10043.jpg"
+    },
+    {
+        "id": 315,
+        "nome": "Kendra Saunders",
+        "alterego": "Hawkgirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/703.jpg"
+    },
+    {
+        "id": 316,
+        "nome": "Carter Hall",
+        "alterego": "Hawkman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/839.jpg"
+    },
+    {
+        "id": 317,
+        "nome": "Shayera Hol",
+        "alterego": "Hawkwoman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/702.jpg"
+    },
+    {
+        "id": 318,
+        "nome": "Sharon Parker",
+        "alterego": "Hawkwoman II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1129.jpg"
+    },
+    {
+        "id": 319,
+        "nome": "Shayera Thal",
+        "alterego": "Hawkwoman III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1130.jpg"
+    },
+    {
+        "id": 320,
+        "nome": "Mick Rory",
+        "alterego": "Heat Wave",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/705.jpg"
+    },
+    {
+        "id": 321,
+        "nome": "",
+        "alterego": "Hela",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10835.jpg"
+    },
+    {
+        "id": 322,
+        "nome": "Anung Un Rama",
+        "alterego": "Hellboy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/813.jpg"
+    },
+    {
+        "id": 323,
+        "nome": "Patricia Walker",
+        "alterego": "Hellcat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/79.jpg"
+    },
+    {
+        "id": 324,
+        "nome": "Daimon Hellstrom",
+        "alterego": "Hellstorm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/80.jpg"
+    },
+    {
+        "id": 325,
+        "nome": "Heracles",
+        "alterego": "Hercules",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/78.jpg"
+    },
+    {
+        "id": 326,
+        "nome": "Hiro Nakamura",
+        "alterego": "Hiro Nakamura",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/947.jpg"
+    },
+    {
+        "id": 327,
+        "nome": "Mindy McCready",
+        "alterego": "Hit-Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1336.jpg"
+    },
+    {
+        "id": 328,
+        "nome": "Roderick Kingsley",
+        "alterego": "Hobgoblin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/896.jpg"
+    },
+    {
+        "id": 329,
+        "nome": "Monet St. Croix",
+        "alterego": "Hollow",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/931.jpg"
+    },
+    {
+        "id": 330,
+        "nome": "Hope Summers",
+        "alterego": "Hope Summers",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1351.jpg"
+    },
+    {
+        "id": 331,
+        "nome": "Howard (Last name unrevealed)",
+        "alterego": "Howard the Duck",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/82.jpg"
+    },
+    {
+        "id": 332,
+        "nome": "Bruce Banner",
+        "alterego": "Hulk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg"
+    },
+    {
+        "id": 333,
+        "nome": "Johnny Storm",
+        "alterego": "Human Torch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/362.jpg"
+    },
+    {
+        "id": 334,
+        "nome": "Helena Rosa Bertinelli",
+        "alterego": "Huntress",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/707.jpg"
+    },
+    {
+        "id": 335,
+        "nome": "Paige Elisabeth Guthrie",
+        "alterego": "Husk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/84.jpg"
+    },
+    {
+        "id": 336,
+        "nome": "Scott Washington",
+        "alterego": "Hybrid",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10493.jpg"
+    },
+    {
+        "id": 337,
+        "nome": "Morris Bench",
+        "alterego": "Hydro-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1451.jpg"
+    },
+    {
+        "id": 338,
+        "nome": "Mark Milton",
+        "alterego": "Hyperion",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1286.jpg"
+    },
+    {
+        "id": 339,
+        "nome": "Bobby Drake",
+        "alterego": "Iceman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/816.jpg"
+    },
+    {
+        "id": 340,
+        "nome": "Bartholomew Allen II",
+        "alterego": "Impulse",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/895.jpg"
+    },
+    {
+        "id": 341,
+        "nome": "Indiana Jones",
+        "alterego": "Indiana Jones",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10560.jpg"
+    },
+    {
+        "id": 342,
+        "nome": "Iroque",
+        "alterego": "Indigo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/708.jpg"
+    },
+    {
+        "id": 343,
+        "nome": "Eric Gitter",
+        "alterego": "Ink",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10337.jpg"
+    },
+    {
+        "id": 344,
+        "nome": "Susan Storm Richards",
+        "alterego": "Invisible Woman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/620.jpg"
+    },
+    {
+        "id": 345,
+        "nome": "Danny Rand",
+        "alterego": "Iron Fist",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1120.jpg"
+    },
+    {
+        "id": 346,
+        "nome": "Tony Stark",
+        "alterego": "Iron Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
+    },
+    {
+        "id": 347,
+        "nome": "Obadiah Stane",
+        "alterego": "Iron Monger",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/886.jpg"
+    },
+    {
+        "id": 348,
+        "nome": "Adrianna Tomaz",
+        "alterego": "Isis",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1164.jpg"
+    },
+    {
+        "id": 349,
+        "nome": "Kiefer Sutherland",
+        "alterego": "Jack Bauer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1203.jpg"
+    },
+    {
+        "id": 350,
+        "nome": "Jonathan Hart",
+        "alterego": "Jack of Hearts",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/86.jpg"
+    },
+    {
+        "id": 351,
+        "nome": "Jack-Jack Parr",
+        "alterego": "Jack-Jack",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/871.jpg"
+    },
+    {
+        "id": 352,
+        "nome": "James Bond",
+        "alterego": "James Bond",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10404.jpg"
+    },
+    {
+        "id": 353,
+        "nome": "James T. Kirk",
+        "alterego": "James T. Kirk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10565.jpg"
+    },
+    {
+        "id": 354,
+        "nome": "Jar Jar Binks",
+        "alterego": "Jar Jar Binks",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10563.jpg"
+    },
+    {
+        "id": 355,
+        "nome": "Jason Bourne",
+        "alterego": "Jason Bourne",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10477.jpg"
+    },
+    {
+        "id": 356,
+        "nome": "Jean Grey",
+        "alterego": "Jean Grey",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/814.jpg"
+    },
+    {
+        "id": 357,
+        "nome": "Jean-Luc Picard",
+        "alterego": "Jean-Luc Picard",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10567.jpg"
+    },
+    {
+        "id": 358,
+        "nome": "Jennifer Kale",
+        "alterego": "Jennifer Kale",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1321.jpg"
+    },
+    {
+        "id": 359,
+        "nome": "Jesse Chambers",
+        "alterego": "Jesse Quick",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10544.jpg"
+    },
+    {
+        "id": 360,
+        "nome": "Jessica Cruz",
+        "alterego": "Jessica Cruz",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10650.jpg"
+    },
+    {
+        "id": 361,
+        "nome": "Jessica Campbell Jones Cage",
+        "alterego": "Jessica Jones",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10403.jpg"
+    },
+    {
+        "id": 362,
+        "nome": "",
+        "alterego": "Jessica Sanders",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1029.jpg"
+    },
+    {
+        "id": 363,
+        "nome": "Billy Russo",
+        "alterego": "Jigsaw",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/887.jpg"
+    },
+    {
+        "id": 364,
+        "nome": "Jim Powell",
+        "alterego": "Jim Powell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1354.jpg"
+    },
+    {
+        "id": 365,
+        "nome": "JJ Powell",
+        "alterego": "JJ Powell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1357.jpg"
+    },
+    {
+        "id": 366,
+        "nome": "Johann Krauss",
+        "alterego": "Johann Krauss",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1121.jpg"
+    },
+    {
+        "id": 367,
+        "nome": "John Constantine",
+        "alterego": "John Constantine",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/718.jpg"
+    },
+    {
+        "id": 368,
+        "nome": "John Stewart",
+        "alterego": "John Stewart",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/873.jpg"
+    },
+    {
+        "id": 369,
+        "nome": "John Wraith",
+        "alterego": "John Wraith",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1314.jpg"
+    },
+    {
+        "id": 370,
+        "nome": "Jack Napier",
+        "alterego": "Joker",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/719.jpg"
+    },
+    {
+        "id": 371,
+        "nome": "Helen Takahama",
+        "alterego": "Jolt",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1323.jpg"
+    },
+    {
+        "id": 372,
+        "nome": "Jubilation Lee",
+        "alterego": "Jubilee",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/87.jpg"
+    },
+    {
+        "id": 373,
+        "nome": "Joseph Dredd",
+        "alterego": "Judge Dredd",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1163.jpg"
+    },
+    {
+        "id": 374,
+        "nome": "Cain Marko",
+        "alterego": "Juggernaut",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/826.jpg"
+    },
+    {
+        "id": 375,
+        "nome": "",
+        "alterego": "Junkpile",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10002.jpg"
+    },
+    {
+        "id": 376,
+        "nome": "Vance Astrovik",
+        "alterego": "Justice",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/88.jpg"
+    },
+    {
+        "id": 377,
+        "nome": "Jyn Erso",
+        "alterego": "Jyn Erso",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10562.jpg"
+    },
+    {
+        "id": 378,
+        "nome": "",
+        "alterego": "K-2SO",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10643.jpg"
+    },
+    {
+        "id": 379,
+        "nome": "Nathaniel Richards",
+        "alterego": "Kang",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1053.jpg"
+    },
+    {
+        "id": 380,
+        "nome": "Kathryn Janeway",
+        "alterego": "Kathryn Janeway",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10581.jpg"
+    },
+    {
+        "id": 381,
+        "nome": "Katniss Everdeen",
+        "alterego": "Katniss Everdeen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10484.jpg"
+    },
+    {
+        "id": 382,
+        "nome": "Kevin Ethan Levin",
+        "alterego": "Kevin 11",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1408.jpg"
+    },
+    {
+        "id": 383,
+        "nome": "Dave Lizewski",
+        "alterego": "Kick-Ass",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1158.jpg"
+    },
+    {
+        "id": 384,
+        "nome": "Wallace Rudolph West",
+        "alterego": "Kid Flash",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/722.jpg"
+    },
+    {
+        "id": 385,
+        "nome": "Bartholomew Allen II",
+        "alterego": "Kid Flash II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/894.jpg"
+    },
+    {
+        "id": 386,
+        "nome": "Waylon Jones",
+        "alterego": "Killer Croc",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/723.jpg"
+    },
+    {
+        "id": 387,
+        "nome": "Caitlin Snow",
+        "alterego": "Killer Frost",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10508.jpg"
+    },
+    {
+        "id": 388,
+        "nome": "",
+        "alterego": "Kilowog",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1428.jpg"
+    },
+    {
+        "id": 389,
+        "nome": "King Kong",
+        "alterego": "King Kong",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10591.jpg"
+    },
+    {
+        "id": 390,
+        "nome": "Nanaue",
+        "alterego": "King Shark",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10512.jpg"
+    },
+    {
+        "id": 391,
+        "nome": "Wilson Grant Fisk",
+        "alterego": "Kingpin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/623.jpg"
+    },
+    {
+        "id": 392,
+        "nome": "Ulysses Klaw",
+        "alterego": "Klaw",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1539.jpg"
+    },
+    {
+        "id": 393,
+        "nome": "",
+        "alterego": "Kool-Aid Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1343.jpg"
+    },
+    {
+        "id": 394,
+        "nome": "Alyosha Kravinoff",
+        "alterego": "Kraven II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1034.jpg"
+    },
+    {
+        "id": 395,
+        "nome": "Sergei Kravinoff",
+        "alterego": "Kraven the Hunter",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1033.jpg"
+    },
+    {
+        "id": 396,
+        "nome": "Krypto the Superdog",
+        "alterego": "Krypto",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/725.jpg"
+    },
+    {
+        "id": 397,
+        "nome": "Kyle Rayner",
+        "alterego": "Kyle Rayner",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1409.jpg"
+    },
+    {
+        "id": 398,
+        "nome": "Ben Solo",
+        "alterego": "Kylo Ren",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10559.jpg"
+    },
+    {
+        "id": 399,
+        "nome": "",
+        "alterego": "Lady Bullseye",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1170.jpg"
+    },
+    {
+        "id": 400,
+        "nome": "Yuriko Oyama",
+        "alterego": "Lady Deathstrike",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/810.jpg"
+    },
+    {
+        "id": 401,
+        "nome": "Samuel Sterns",
+        "alterego": "Leader",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/885.jpg"
+    },
+    {
+        "id": 402,
+        "nome": "",
+        "alterego": "Leech",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/834.jpg"
+    },
+    {
+        "id": 403,
+        "nome": "David Haller",
+        "alterego": "Legion",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10651.jpg"
+    },
+    {
+        "id": 404,
+        "nome": "Leonardo",
+        "alterego": "Leonardo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10327.jpg"
+    },
+    {
+        "id": 405,
+        "nome": "Lex Luthor",
+        "alterego": "Lex Luthor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"
+    },
+    {
+        "id": 406,
+        "nome": "Ayla Ranzz",
+        "alterego": "Light Lass",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1178.jpg"
+    },
+    {
+        "id": 407,
+        "nome": "Garth Ranzz",
+        "alterego": "Lightning Lad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1177.jpg"
+    },
+    {
+        "id": 408,
+        "nome": "Mekt Ranzz",
+        "alterego": "Lightning Lord",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1179.jpg"
+    },
+    {
+        "id": 409,
+        "nome": "",
+        "alterego": "Living Brain",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1037.jpg"
+    },
+    {
+        "id": 410,
+        "nome": "",
+        "alterego": "Living Tribunal",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10523.jpg"
+    },
+    {
+        "id": 411,
+        "nome": "Elizabeth Anne Sherman",
+        "alterego": "Liz Sherman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/868.jpg"
+    },
+    {
+        "id": 412,
+        "nome": "Curtis Connors",
+        "alterego": "Lizard",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/11.jpg"
+    },
+    {
+        "id": 413,
+        "nome": "Lobo",
+        "alterego": "Lobo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1127.jpg"
+    },
+    {
+        "id": 414,
+        "nome": "Loki Laufeyson",
+        "alterego": "Loki",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/928.jpg"
+    },
+    {
+        "id": 415,
+        "nome": "",
+        "alterego": "Longshot",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1531.jpg"
+    },
+    {
+        "id": 416,
+        "nome": "Luke Cage",
+        "alterego": "Luke Cage",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/269.jpg"
+    },
+    {
+        "id": 417,
+        "nome": "Luke Campbell",
+        "alterego": "Luke Campbell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1311.jpg"
+    },
+    {
+        "id": 418,
+        "nome": "Luke Skywalker",
+        "alterego": "Luke Skywalker",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10447.jpg"
+    },
+    {
+        "id": 419,
+        "nome": "Luna Maximoff",
+        "alterego": "Luna",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/933.jpg"
+    },
+    {
+        "id": 420,
+        "nome": "Lyja",
+        "alterego": "Lyja",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1017.jpg"
+    },
+    {
+        "id": 421,
+        "nome": "Abner Jenkins",
+        "alterego": "Mach-IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/370.jpg"
+    },
+    {
+        "id": 422,
+        "nome": "X-51, Aaron Stack",
+        "alterego": "Machine Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/90.jpg"
+    },
+    {
+        "id": 423,
+        "nome": "Erik Magnus Lensherr",
+        "alterego": "Magneto",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/12.jpg"
+    },
+    {
+        "id": 424,
+        "nome": "David Reid",
+        "alterego": "Magog",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1324.jpg"
+    },
+    {
+        "id": 425,
+        "nome": "",
+        "alterego": "Magus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1297.jpg"
+    },
+    {
+        "id": 426,
+        "nome": "",
+        "alterego": "Man of Miracles",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10889.jpg"
+    },
+    {
+        "id": 427,
+        "nome": "Robert Kirkland Langstrom",
+        "alterego": "Man-Bat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/731.jpg"
+    },
+    {
+        "id": 428,
+        "nome": "Dr. Theodore Sallis",
+        "alterego": "Man-Thing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/382.jpg"
+    },
+    {
+        "id": 429,
+        "nome": "John Jameson",
+        "alterego": "Man-Wolf",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/91.jpg"
+    },
+    {
+        "id": 430,
+        "nome": "Khan",
+        "alterego": "Mandarin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1175.jpg"
+    },
+    {
+        "id": 431,
+        "nome": "",
+        "alterego": "Mantis",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/384.jpg"
+    },
+    {
+        "id": 432,
+        "nome": "J'onn J'onzz",
+        "alterego": "Martian Manhunter",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/733.jpg"
+    },
+    {
+        "id": 433,
+        "nome": "Rachel Anne Summers",
+        "alterego": "Marvel Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/94.jpg"
+    },
+    {
+        "id": 434,
+        "nome": "Currently Colin Wood",
+        "alterego": "Master Brood",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/958.jpg"
+    },
+    {
+        "id": 435,
+        "nome": "John-117",
+        "alterego": "Master Chief",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1110.jpg"
+    },
+    {
+        "id": 436,
+        "nome": "Kent Connor",
+        "alterego": "Match",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1459.jpg"
+    },
+    {
+        "id": 437,
+        "nome": "Matthew Parkman",
+        "alterego": "Matt Parkman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/948.jpg"
+    },
+    {
+        "id": 438,
+        "nome": "Christopher Bradley",
+        "alterego": "Maverick",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/257.jpg"
+    },
+    {
+        "id": 439,
+        "nome": "",
+        "alterego": "Maxima",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1168.jpg"
+    },
+    {
+        "id": 440,
+        "nome": "Maya Herrera",
+        "alterego": "Maya Herrera",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/944.jpg"
+    },
+    {
+        "id": 441,
+        "nome": "Medusalith Amaquelin Boltagon",
+        "alterego": "Medusa",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/96.jpg"
+    },
+    {
+        "id": 442,
+        "nome": "Tabitha Smith",
+        "alterego": "Meltdown",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/258.jpg"
+    },
+    {
+        "id": 443,
+        "nome": "",
+        "alterego": "Mephisto",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1322.jpg"
+    },
+    {
+        "id": 444,
+        "nome": "Mera",
+        "alterego": "Mera",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1388.jpg"
+    },
+    {
+        "id": 445,
+        "nome": "John Corben",
+        "alterego": "Metallo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/737.jpg"
+    },
+    {
+        "id": 446,
+        "nome": "Rex Mason",
+        "alterego": "Metamorpho",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/738.jpg"
+    },
+    {
+        "id": 447,
+        "nome": "",
+        "alterego": "Meteorite",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1333.jpg"
+    },
+    {
+        "id": 448,
+        "nome": "Metron",
+        "alterego": "Metron",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/841.jpg"
+    },
+    {
+        "id": 449,
+        "nome": "Micah Sanders",
+        "alterego": "Micah Sanders",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/951.jpg"
+    },
+    {
+        "id": 450,
+        "nome": "",
+        "alterego": "Michelangelo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10329.jpg"
+    },
+    {
+        "id": 451,
+        "nome": "Gim Allon",
+        "alterego": "Micro Lad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1181.jpg"
+    },
+    {
+        "id": 452,
+        "nome": "Calvin Montgomery Rankin",
+        "alterego": "Mimic",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/97.jpg"
+    },
+    {
+        "id": 453,
+        "nome": "Wilhelmina Harker",
+        "alterego": "Minna Murray",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/881.jpg"
+    },
+    {
+        "id": 454,
+        "nome": "Charlotte Gage-Radcliffe",
+        "alterego": "Misfit",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1114.jpg"
+    },
+    {
+        "id": 455,
+        "nome": "M'gann M'orzz",
+        "alterego": "Miss Martian",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1394.jpg"
+    },
+    {
+        "id": 456,
+        "nome": "Reed Richards",
+        "alterego": "Mister Fantastic",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/408.jpg"
+    },
+    {
+        "id": 457,
+        "nome": "Victor Fries",
+        "alterego": "Mister Freeze",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/742.jpg"
+    },
+    {
+        "id": 458,
+        "nome": "J'son",
+        "alterego": "Mister Knife",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10633.jpg"
+    },
+    {
+        "id": 459,
+        "nome": "Mr. Mxyzptlk",
+        "alterego": "Mister Mxyzptlk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/744.jpg"
+    },
+    {
+        "id": 460,
+        "nome": "Nathaniel Essex",
+        "alterego": "Mister Sinister",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/856.jpg"
+    },
+    {
+        "id": 461,
+        "nome": "Victor Zsasz",
+        "alterego": "Mister Zsasz",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg"
+    },
+    {
+        "id": 462,
+        "nome": "Barbara Morse",
+        "alterego": "Mockingbird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1328.jpg"
+    },
+    {
+        "id": 463,
+        "nome": "George Tarleton",
+        "alterego": "MODOK",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10438.jpg"
+    },
+    {
+        "id": 464,
+        "nome": "Mogo",
+        "alterego": "Mogo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1432.jpg"
+    },
+    {
+        "id": 465,
+        "nome": "Mohinder Suresh",
+        "alterego": "Mohinder Suresh",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1313.jpg"
+    },
+    {
+        "id": 466,
+        "nome": "Edgar William Jacobi",
+        "alterego": "Moloch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1061.jpg"
+    },
+    {
+        "id": 467,
+        "nome": "Mark Raxton",
+        "alterego": "Molten Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/411.jpg"
+    },
+    {
+        "id": 468,
+        "nome": "Nathaniel Christopher Adam",
+        "alterego": "Monarch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1006.jpg"
+    },
+    {
+        "id": 469,
+        "nome": "Monica Dawson",
+        "alterego": "Monica Dawson",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/942.jpg"
+    },
+    {
+        "id": 470,
+        "nome": "Marc Spector",
+        "alterego": "Moon Knight",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/415.jpg"
+    },
+    {
+        "id": 471,
+        "nome": "Karla Sofen",
+        "alterego": "Moonstone",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/100.jpg"
+    },
+    {
+        "id": 472,
+        "nome": "Morlun",
+        "alterego": "Morlun",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1171.jpg"
+    },
+    {
+        "id": 473,
+        "nome": "Kevin Sydney",
+        "alterego": "Morph",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/102.jpg"
+    },
+    {
+        "id": 474,
+        "nome": "Moses Magnum",
+        "alterego": "Moses Magnum",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1020.jpg"
+    },
+    {
+        "id": 475,
+        "nome": "Craig Hollis",
+        "alterego": "Mr Immortal",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10794.jpg"
+    },
+    {
+        "id": 476,
+        "nome": "Robert Parr",
+        "alterego": "Mr Incredible",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/869.jpg"
+    },
+    {
+        "id": 477,
+        "nome": "Sharon Ventura",
+        "alterego": "Ms Marvel II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/897.jpg"
+    },
+    {
+        "id": 478,
+        "nome": "James Arthur",
+        "alterego": "Multiple Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/104.jpg"
+    },
+    {
+        "id": 479,
+        "nome": "Quentin Beck",
+        "alterego": "Mysterio",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1039.jpg"
+    },
+    {
+        "id": 480,
+        "nome": "Raven Darkholme",
+        "alterego": "Mystique",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/817.jpg"
+    },
+    {
+        "id": 481,
+        "nome": "Namor McKenzie",
+        "alterego": "Namor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/137.jpg"
+    },
+    {
+        "id": 482,
+        "nome": "",
+        "alterego": "Namor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/105.jpg"
+    },
+    {
+        "id": 483,
+        "nome": "Aquaria Nautica Neptunia",
+        "alterego": "Namora",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1364.jpg"
+    },
+    {
+        "id": 484,
+        "nome": "Namorita Prentiss",
+        "alterego": "Namorita",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/106.jpg"
+    },
+    {
+        "id": 485,
+        "nome": "",
+        "alterego": "Naruto Uzumaki",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1540.jpg"
+    },
+    {
+        "id": 486,
+        "nome": "Nathan Petrelli",
+        "alterego": "Nathan Petrelli",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/949.jpg"
+    },
+    {
+        "id": 487,
+        "nome": "",
+        "alterego": "Nebula",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10632.jpg"
+    },
+    {
+        "id": 488,
+        "nome": "Ellie Phimister",
+        "alterego": "Negasonic Teenage Warhead",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10556.jpg"
+    },
+    {
+        "id": 489,
+        "nome": "Nicholas Joseph Fury",
+        "alterego": "Nick Fury",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/326.jpg"
+    },
+    {
+        "id": 490,
+        "nome": "Kurt Wagner",
+        "alterego": "Nightcrawler",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/107.jpg"
+    },
+    {
+        "id": 491,
+        "nome": "Dick Grayson",
+        "alterego": "Nightwing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/851.jpg"
+    },
+    {
+        "id": 492,
+        "nome": "Nicole Sanders",
+        "alterego": "Niki Sanders",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/952.jpg"
+    },
+    {
+        "id": 493,
+        "nome": "",
+        "alterego": "Nina Theroux",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1529.jpg"
+    },
+    {
+        "id": 494,
+        "nome": "Daniel Dreiberg",
+        "alterego": "Nite Owl II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1059.jpg"
+    },
+    {
+        "id": 495,
+        "nome": "Jean-Paul Beaubier",
+        "alterego": "Northstar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1287.jpg"
+    },
+    {
+        "id": 496,
+        "nome": "Richard Rider",
+        "alterego": "Nova",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/109.jpg"
+    },
+    {
+        "id": 497,
+        "nome": "Frankie Raye",
+        "alterego": "Nova",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10313.jpg"
+    },
+    {
+        "id": 498,
+        "nome": "Odin Borson",
+        "alterego": "Odin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10388.jpg"
+    },
+    {
+        "id": 499,
+        "nome": "Luke O'Brian",
+        "alterego": "Offspring",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1298.jpg"
+    },
+    {
+        "id": 500,
+        "nome": "Arkady Gregorivich",
+        "alterego": "Omega Red",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/208.jpg"
+    },
+    {
+        "id": 501,
+        "nome": "Omniscient is the closest English word that compares to his alien tongue.",
+        "alterego": "Omniscient",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1003.jpg"
+    },
+    {
+        "id": 502,
+        "nome": "Saitama",
+        "alterego": "One Punch Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10522.jpg"
+    },
+    {
+        "id": 503,
+        "nome": "",
+        "alterego": "One-Above-All",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10374.jpg"
+    },
+    {
+        "id": 504,
+        "nome": "Onslaught",
+        "alterego": "Onslaught",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/13.jpg"
+    },
+    {
+        "id": 505,
+        "nome": "Barbara Gordon",
+        "alterego": "Oracle",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/749.jpg"
+    },
+    {
+        "id": 506,
+        "nome": "Amon Tomaz",
+        "alterego": "Osiris",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1165.jpg"
+    },
+    {
+        "id": 507,
+        "nome": "Nicholas Rocca",
+        "alterego": "Overtkill",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/866.jpg"
+    },
+    {
+        "id": 508,
+        "nome": "Adrian Veidt",
+        "alterego": "Ozymandias",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1063.jpg"
+    },
+    {
+        "id": 509,
+        "nome": "",
+        "alterego": "Parademon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10806.jpg"
+    },
+    {
+        "id": 510,
+        "nome": "Paul Blart",
+        "alterego": "Paul Blart",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10479.jpg"
+    },
+    {
+        "id": 511,
+        "nome": "",
+        "alterego": "Penance",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/929.jpg"
+    },
+    {
+        "id": 512,
+        "nome": "",
+        "alterego": "Penance I",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/930.jpg"
+    },
+    {
+        "id": 513,
+        "nome": "Robert Baldwin",
+        "alterego": "Penance II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/900.jpg"
+    },
+    {
+        "id": 514,
+        "nome": "Oswald Chesterfield Cobblepot",
+        "alterego": "Penguin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/753.jpg"
+    },
+    {
+        "id": 515,
+        "nome": "Christopher Walker",
+        "alterego": "Phantom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/889.jpg"
+    },
+    {
+        "id": 516,
+        "nome": "Tinya Wazzo",
+        "alterego": "Phantom Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1184.jpg"
+    },
+    {
+        "id": 517,
+        "nome": "Jean Grey",
+        "alterego": "Phoenix",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/828.jpg"
+    },
+    {
+        "id": 518,
+        "nome": "Samuel Smithers",
+        "alterego": "Plantman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10487.jpg"
+    },
+    {
+        "id": 519,
+        "nome": "Luke O'Brian",
+        "alterego": "Plastic Lad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1299.jpg"
+    },
+    {
+        "id": 520,
+        "nome": "Patrick O'Brian",
+        "alterego": "Plastic Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/756.jpg"
+    },
+    {
+        "id": 521,
+        "nome": "Bette Sans Souci",
+        "alterego": "Plastique",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1176.jpg"
+    },
+    {
+        "id": 522,
+        "nome": "Pamela Isley",
+        "alterego": "Poison Ivy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/757.jpg"
+    },
+    {
+        "id": 523,
+        "nome": "Lorna Dane",
+        "alterego": "Polaris",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1046.jpg"
+    },
+    {
+        "id": 524,
+        "nome": "Kara Zor-L",
+        "alterego": "Power Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/758.jpg"
+    },
+    {
+        "id": 525,
+        "nome": "Luke Cage",
+        "alterego": "Power Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1016.jpg"
+    },
+    {
+        "id": 526,
+        "nome": "Yautja",
+        "alterego": "Predator",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10448.jpg"
+    },
+    {
+        "id": 527,
+        "nome": "Charles Francis Xavier",
+        "alterego": "Professor X",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/113.jpg"
+    },
+    {
+        "id": 528,
+        "nome": "Eobard Thawne",
+        "alterego": "Professor Zoom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/766.jpg"
+    },
+    {
+        "id": 529,
+        "nome": "Elizabeth Braddock",
+        "alterego": "Psylocke",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/114.jpg"
+    },
+    {
+        "id": 530,
+        "nome": "Frank Castle",
+        "alterego": "Punisher",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/112.jpg"
+    },
+    {
+        "id": 531,
+        "nome": "Zebediah Killgrave",
+        "alterego": "Purple Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10451.jpg"
+    },
+    {
+        "id": 532,
+        "nome": "St. John Allerdyce",
+        "alterego": "Pyro",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/853.jpg"
+    },
+    {
+        "id": 533,
+        "nome": "Q",
+        "alterego": "Q",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10578.jpg"
+    },
+    {
+        "id": 534,
+        "nome": "",
+        "alterego": "Quantum",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1157.jpg"
+    },
+    {
+        "id": 535,
+        "nome": "Charles Victor Szasz",
+        "alterego": "Question",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/760.jpg"
+    },
+    {
+        "id": 536,
+        "nome": "Pietro Django Maximoff",
+        "alterego": "Quicksilver",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/115.jpg"
+    },
+    {
+        "id": 537,
+        "nome": "Maxwell Jordan",
+        "alterego": "Quill",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/830.jpg"
+    },
+    {
+        "id": 538,
+        "nome": "Ra's Al Ghul",
+        "alterego": "Ra's Al Ghul",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg"
+    },
+    {
+        "id": 539,
+        "nome": "",
+        "alterego": "Rachel Pirzad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1530.jpg"
+    },
+    {
+        "id": 540,
+        "nome": "John Rambo",
+        "alterego": "Rambo",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10475.jpg"
+    },
+    {
+        "id": 541,
+        "nome": "",
+        "alterego": "Raphael",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10328.jpg"
+    },
+    {
+        "id": 542,
+        "nome": "Rachel Roth",
+        "alterego": "Raven",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/764.jpg"
+    },
+    {
+        "id": 543,
+        "nome": "Ray Terrill",
+        "alterego": "Ray",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10204.jpg"
+    },
+    {
+        "id": 544,
+        "nome": "Douglas Scott",
+        "alterego": "Razor-Fist II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/935.jpg"
+    },
+    {
+        "id": 545,
+        "nome": "Roy Harper",
+        "alterego": "Red Arrow",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1013.jpg"
+    },
+    {
+        "id": 546,
+        "nome": "Jason Todd",
+        "alterego": "Red Hood",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
+    },
+    {
+        "id": 547,
+        "nome": "Thaddeus E. Ross",
+        "alterego": "Red Hulk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1342.jpg"
+    },
+    {
+        "id": 548,
+        "nome": "Chris Genovese",
+        "alterego": "Red Mist",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1337.jpg"
+    },
+    {
+        "id": 549,
+        "nome": "Tim Drake",
+        "alterego": "Red Robin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10009.jpg"
+    },
+    {
+        "id": 550,
+        "nome": "Johann Shmidt",
+        "alterego": "Red Skull",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1392.jpg"
+    },
+    {
+        "id": 551,
+        "nome": "John Smith",
+        "alterego": "Red Tornado",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1149.jpg"
+    },
+    {
+        "id": 552,
+        "nome": "Phil Timper",
+        "alterego": "Redeemer II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1081.jpg"
+    },
+    {
+        "id": 553,
+        "nome": "Eddie Frank",
+        "alterego": "Redeemer III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1092.jpg"
+    },
+    {
+        "id": 554,
+        "nome": "",
+        "alterego": "Renata Soliz",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1151.jpg"
+    },
+    {
+        "id": 555,
+        "nome": "",
+        "alterego": "Rey",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10561.jpg"
+    },
+    {
+        "id": 556,
+        "nome": "Aleksei Mikhailovich Sytsevich",
+        "alterego": "Rhino",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/15.jpg"
+    },
+    {
+        "id": 557,
+        "nome": "Richard Rogers Flag",
+        "alterego": "Rick Flag",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1352.jpg"
+    },
+    {
+        "id": 558,
+        "nome": "Edward Nigma",
+        "alterego": "Riddler",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/768.jpg"
+    },
+    {
+        "id": 559,
+        "nome": "Richard Hunter",
+        "alterego": "Rip Hunter",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10543.jpg"
+    },
+    {
+        "id": 560,
+        "nome": "Miranda Leevald",
+        "alterego": "Ripcord",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1291.jpg"
+    },
+    {
+        "id": 561,
+        "nome": "Dick Grayson",
+        "alterego": "Robin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/850.jpg"
+    },
+    {
+        "id": 562,
+        "nome": "Jason Todd",
+        "alterego": "Robin II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/849.jpg"
+    },
+    {
+        "id": 563,
+        "nome": "Tim Drake",
+        "alterego": "Robin III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/769.jpg"
+    },
+    {
+        "id": 564,
+        "nome": "Damian Wayne",
+        "alterego": "Robin V",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1473.jpg"
+    },
+    {
+        "id": 565,
+        "nome": "Carrie Kelley",
+        "alterego": "Robin VI",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10394.jpg"
+    },
+    {
+        "id": 566,
+        "nome": "Rocket Raccoon",
+        "alterego": "Rocket Raccoon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10010.jpg"
+    },
+    {
+        "id": 567,
+        "nome": "Anna Marie",
+        "alterego": "Rogue",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/831.jpg"
+    },
+    {
+        "id": 568,
+        "nome": "Clint Barton",
+        "alterego": "Ronin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1202.jpg"
+    },
+    {
+        "id": 569,
+        "nome": "Walter Joseph Kovacs",
+        "alterego": "Rorschach",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/771.jpg"
+    },
+    {
+        "id": 570,
+        "nome": "Victor Creed",
+        "alterego": "Sabretooth",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/17.jpg"
+    },
+    {
+        "id": 571,
+        "nome": "Tessa",
+        "alterego": "Sage",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/117.jpg"
+    },
+    {
+        "id": 572,
+        "nome": "William Baker",
+        "alterego": "Sandman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/621.jpg"
+    },
+    {
+        "id": 573,
+        "nome": "Walter Langkowski",
+        "alterego": "Sasquatch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/863.jpg"
+    },
+    {
+        "id": 574,
+        "nome": "Sauron",
+        "alterego": "Sauron",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10849.jpg"
+    },
+    {
+        "id": 575,
+        "nome": "Kurr",
+        "alterego": "Savage Dragon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1117.jpg"
+    },
+    {
+        "id": 576,
+        "nome": "Jonathan Crane",
+        "alterego": "Scarecrow",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/819.jpg"
+    },
+    {
+        "id": 577,
+        "nome": "Benjamin Reilly",
+        "alterego": "Scarlet Spider",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/174.jpg"
+    },
+    {
+        "id": 578,
+        "nome": "Kaine Parker",
+        "alterego": "Scarlet Spider II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1536.jpg"
+    },
+    {
+        "id": 579,
+        "nome": "Wanda Maximoff",
+        "alterego": "Scarlet Witch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/444.jpg"
+    },
+    {
+        "id": 580,
+        "nome": "Elaine Coll",
+        "alterego": "Scorpia",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1123.jpg"
+    },
+    {
+        "id": 581,
+        "nome": "MacDonald Gargan",
+        "alterego": "Scorpion",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1041.jpg"
+    },
+    {
+        "id": 582,
+        "nome": "Sebastian Hiram Shaw",
+        "alterego": "Sebastian Shaw",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1482.jpg"
+    },
+    {
+        "id": 583,
+        "nome": "Robert Reynolds",
+        "alterego": "Sentry",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/447.jpg"
+    },
+    {
+        "id": 584,
+        "nome": "Amahl Farouk",
+        "alterego": "Shadow King",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/121.jpg"
+    },
+    {
+        "id": 585,
+        "nome": "Tasmia Mallor",
+        "alterego": "Shadow Lass",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1195.jpg"
+    },
+    {
+        "id": 586,
+        "nome": "Kitty Pryde",
+        "alterego": "Shadowcat",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/122.jpg"
+    },
+    {
+        "id": 587,
+        "nome": "Shang-Chi",
+        "alterego": "Shang-Chi",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/454.jpg"
+    },
+    {
+        "id": 588,
+        "nome": "Gaveedra Seven",
+        "alterego": "Shatterstar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/124.jpg"
+    },
+    {
+        "id": 589,
+        "nome": "Jennifer Walters",
+        "alterego": "She-Hulk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/125.jpg"
+    },
+    {
+        "id": 590,
+        "nome": "Sharon Ventura",
+        "alterego": "She-Thing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/461.jpg"
+    },
+    {
+        "id": 591,
+        "nome": "Herman Schultz",
+        "alterego": "Shocker",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/19.jpg"
+    },
+    {
+        "id": 592,
+        "nome": "Frances Louise Barrison",
+        "alterego": "Shriek",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1319.jpg"
+    },
+    {
+        "id": 593,
+        "nome": "",
+        "alterego": "Shrinking Violet",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1188.jpg"
+    },
+    {
+        "id": 594,
+        "nome": "Sif",
+        "alterego": "Sif",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1533.jpg"
+    },
+    {
+        "id": 595,
+        "nome": "Cindy Moon",
+        "alterego": "Silk",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10495.jpg"
+    },
+    {
+        "id": 596,
+        "nome": "Sally Juspeczyk",
+        "alterego": "Silk Spectre",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1057.jpg"
+    },
+    {
+        "id": 597,
+        "nome": "Laurie Juspeczyk",
+        "alterego": "Silk Spectre II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1058.jpg"
+    },
+    {
+        "id": 598,
+        "nome": "Norrin Radd",
+        "alterego": "Silver Surfer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/127.jpg"
+    },
+    {
+        "id": 599,
+        "nome": "Maria de Guadalupe Santiago",
+        "alterego": "Silverclaw",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1019.jpg"
+    },
+    {
+        "id": 600,
+        "nome": "Simoon Baz",
+        "alterego": "Simon Baz",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10649.jpg"
+    },
+    {
+        "id": 601,
+        "nome": "Thaal Sinestro",
+        "alterego": "Sinestro",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/781.jpg"
+    },
+    {
+        "id": 602,
+        "nome": "Hila",
+        "alterego": "Siren",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1387.jpg"
+    },
+    {
+        "id": 603,
+        "nome": "La Sirene la Bailene",
+        "alterego": "Siren II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1386.jpg"
+    },
+    {
+        "id": 604,
+        "nome": "Theresa Rourke Cassidy",
+        "alterego": "Siryn",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/833.jpg"
+    },
+    {
+        "id": 605,
+        "nome": "",
+        "alterego": "Skaar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1341.jpg"
+    },
+    {
+        "id": 606,
+        "nome": "",
+        "alterego": "Snake-Eyes",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10437.jpg"
+    },
+    {
+        "id": 607,
+        "nome": "Narya",
+        "alterego": "Snowbird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/130.jpg"
+    },
+    {
+        "id": 608,
+        "nome": "Yurrd the Unknown",
+        "alterego": "Sobek",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1166.jpg"
+    },
+    {
+        "id": 609,
+        "nome": "Cyrus Gold",
+        "alterego": "Solomon Grundy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/782.jpg"
+    },
+    {
+        "id": 610,
+        "nome": "Melissa Joan Gold",
+        "alterego": "Songbird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/131.jpg"
+    },
+    {
+        "id": 611,
+        "nome": "Thaddeus Bach",
+        "alterego": "Space Ghost",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1505.jpg"
+    },
+    {
+        "id": 612,
+        "nome": "Al Simmons",
+        "alterego": "Spawn",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/842.jpg"
+    },
+    {
+        "id": 613,
+        "nome": "Aztar",
+        "alterego": "Spectre",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/784.jpg"
+    },
+    {
+        "id": 614,
+        "nome": "Robert Baldwin",
+        "alterego": "Speedball",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/132.jpg"
+    },
+    {
+        "id": 615,
+        "nome": "Thea Queen",
+        "alterego": "Speedy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10558.jpg"
+    },
+    {
+        "id": 616,
+        "nome": "Roy William Harper, Jr.",
+        "alterego": "Speedy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1015.jpg"
+    },
+    {
+        "id": 617,
+        "nome": "Benjamin Reilly",
+        "alterego": "Spider-Carnage",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/957.jpg"
+    },
+    {
+        "id": 618,
+        "nome": "May 'Mayday' Parker",
+        "alterego": "Spider-Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/480.jpg"
+    },
+    {
+        "id": 619,
+        "nome": "Gwen Stacy",
+        "alterego": "Spider-Gwen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10507.jpg"
+    },
+    {
+        "id": 620,
+        "nome": "Peter Parker",
+        "alterego": "Spider-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/133.jpg"
+    },
+    {
+        "id": 621,
+        "nome": "Miguel O'Hara",
+        "alterego": "Spider-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/479.jpg"
+    },
+    {
+        "id": 622,
+        "nome": "Miles Morales",
+        "alterego": "Spider-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg"
+    },
+    {
+        "id": 623,
+        "nome": "Jessica Drew",
+        "alterego": "Spider-Woman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/481.jpg"
+    },
+    {
+        "id": 624,
+        "nome": "",
+        "alterego": "Spider-Woman II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/483.jpg"
+    },
+    {
+        "id": 625,
+        "nome": "Martha Franklin",
+        "alterego": "Spider-Woman III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/482.jpg"
+    },
+    {
+        "id": 626,
+        "nome": "Charlotte Witter",
+        "alterego": "Spider-Woman IV",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/883.jpg"
+    },
+    {
+        "id": 627,
+        "nome": "S'chn T'gai Spock",
+        "alterego": "Spock",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10566.jpg"
+    },
+    {
+        "id": 628,
+        "nome": "Evan Daniels",
+        "alterego": "Spyke",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1455.jpg"
+    },
+    {
+        "id": 629,
+        "nome": "",
+        "alterego": "Stacy X",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/485.jpg"
+    },
+    {
+        "id": 630,
+        "nome": "Peter Jason Quill",
+        "alterego": "Star-Lord",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10015.jpg"
+    },
+    {
+        "id": 631,
+        "nome": "",
+        "alterego": "Stardust",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1052.jpg"
+    },
+    {
+        "id": 632,
+        "nome": "Koriand'r",
+        "alterego": "Starfire",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/786.jpg"
+    },
+    {
+        "id": 633,
+        "nome": "Courtney Whitmore",
+        "alterego": "Stargirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1326.jpg"
+    },
+    {
+        "id": 634,
+        "nome": "Virgil Hawkins",
+        "alterego": "Static",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1471.jpg"
+    },
+    {
+        "id": 635,
+        "nome": "John Henry Irons",
+        "alterego": "Steel",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1383.jpg"
+    },
+    {
+        "id": 636,
+        "nome": "Stephanie Powell",
+        "alterego": "Stephanie Powell",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1355.jpg"
+    },
+    {
+        "id": 637,
+        "nome": "",
+        "alterego": "Steppenwolf",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10653.jpg"
+    },
+    {
+        "id": 638,
+        "nome": "Ororo Munroe",
+        "alterego": "Storm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/135.jpg"
+    },
+    {
+        "id": 639,
+        "nome": "",
+        "alterego": "Stormtrooper",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10539.jpg"
+    },
+    {
+        "id": 640,
+        "nome": "Roberto DaCosta",
+        "alterego": "Sunspot",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/138.jpg"
+    },
+    {
+        "id": 641,
+        "nome": "Kon-El / Conner Kent",
+        "alterego": "Superboy",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/789.jpg"
+    },
+    {
+        "id": 642,
+        "nome": "Kal-El",
+        "alterego": "Superboy-Prime",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1535.jpg"
+    },
+    {
+        "id": 643,
+        "nome": "Kara Zor-El",
+        "alterego": "Supergirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/790.jpg"
+    },
+    {
+        "id": 644,
+        "nome": "Clark Kent",
+        "alterego": "Superman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg"
+    },
+    {
+        "id": 645,
+        "nome": "Alec Holland",
+        "alterego": "Swamp Thing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/792.jpg"
+    },
+    {
+        "id": 646,
+        "nome": "Fritz von Meyer",
+        "alterego": "Swarm",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10428.jpg"
+    },
+    {
+        "id": 647,
+        "nome": "Gabriel Gray",
+        "alterego": "Sylar",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/953.jpg"
+    },
+    {
+        "id": 648,
+        "nome": "Everett Thomas",
+        "alterego": "Synch",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/175.jpg"
+    },
+    {
+        "id": 649,
+        "nome": "Cyberdyne Systems Series 1000 Terminator",
+        "alterego": "T-1000",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10411.jpg"
+    },
+    {
+        "id": 650,
+        "nome": "Cyberdyne Systems Series 800 Terminator Model 101",
+        "alterego": "T-800",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10409.jpg"
+    },
+    {
+        "id": 651,
+        "nome": "Cyberdyne Systems Series 850 Terminator",
+        "alterego": "T-850",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10410.jpg"
+    },
+    {
+        "id": 652,
+        "nome": "Cyberdyne Systems Series X Terminator",
+        "alterego": "T-X",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10412.jpg"
+    },
+    {
+        "id": 653,
+        "nome": "Tony Masters",
+        "alterego": "Taskmaster",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/21.jpg"
+    },
+    {
+        "id": 654,
+        "nome": "Angel Salvadore Bohusk",
+        "alterego": "Tempest",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1407.jpg"
+    },
+    {
+        "id": 655,
+        "nome": "Thanos",
+        "alterego": "Thanos",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1305.jpg"
+    },
+    {
+        "id": 656,
+        "nome": "Vince Faraday",
+        "alterego": "The Cape",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1375.jpg"
+    },
+    {
+        "id": 657,
+        "nome": "Edward Morgen Blake",
+        "alterego": "The Comedian",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1062.jpg"
+    },
+    {
+        "id": 658,
+        "nome": "Ben Grimm",
+        "alterego": "Thing",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/139.jpg"
+    },
+    {
+        "id": 659,
+        "nome": "Thor Odinson",
+        "alterego": "Thor",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/140.jpg"
+    },
+    {
+        "id": 660,
+        "nome": "Tarene",
+        "alterego": "Thor Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1296.jpg"
+    },
+    {
+        "id": 661,
+        "nome": "John Proudstar",
+        "alterego": "Thunderbird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/611.jpg"
+    },
+    {
+        "id": 662,
+        "nome": "James Proudstar",
+        "alterego": "Thunderbird II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/927.jpg"
+    },
+    {
+        "id": 663,
+        "nome": "Neal Shaara",
+        "alterego": "Thunderbird III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/141.jpg"
+    },
+    {
+        "id": 664,
+        "nome": "Eric Kevin Masterson",
+        "alterego": "Thunderstrike",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/177.jpg"
+    },
+    {
+        "id": 665,
+        "nome": "Thundra",
+        "alterego": "Thundra",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/508.jpg"
+    },
+    {
+        "id": 666,
+        "nome": "Todd Arliss",
+        "alterego": "Tiger Shark",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10047.jpg"
+    },
+    {
+        "id": 667,
+        "nome": "Greer Grant Nelson",
+        "alterego": "Tigra",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/42.jpg"
+    },
+    {
+        "id": 668,
+        "nome": "Phineas Mason",
+        "alterego": "Tinkerer",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1036.jpg"
+    },
+    {
+        "id": 669,
+        "nome": "",
+        "alterego": "Titan",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1154.jpg"
+    },
+    {
+        "id": 670,
+        "nome": "Mortimer Toynbee",
+        "alterego": "Toad",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1125.jpg"
+    },
+    {
+        "id": 671,
+        "nome": "Patrick Mulligan",
+        "alterego": "Toxin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/848.jpg"
+    },
+    {
+        "id": 672,
+        "nome": "Eddie Brock",
+        "alterego": "Toxin",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10494.jpg"
+    },
+    {
+        "id": 673,
+        "nome": "Tracy Strauss",
+        "alterego": "Tracy Strauss",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1312.jpg"
+    },
+    {
+        "id": 674,
+        "nome": "Giovanni Giuseppe",
+        "alterego": "Trickster",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1468.jpg"
+    },
+    {
+        "id": 675,
+        "nome": "",
+        "alterego": "Trigon",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg"
+    },
+    {
+        "id": 676,
+        "nome": "Luornu Durgo",
+        "alterego": "Triplicate Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1185.jpg"
+    },
+    {
+        "id": 677,
+        "nome": "Triton",
+        "alterego": "Triton",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/513.jpg"
+    },
+    {
+        "id": 678,
+        "nome": "Harvey Dent",
+        "alterego": "Two-Face",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/802.jpg"
+    },
+    {
+        "id": 679,
+        "nome": "Tsu-Zana",
+        "alterego": "Ultragirl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1295.jpg"
+    },
+    {
+        "id": 680,
+        "nome": "Ultron",
+        "alterego": "Ultron",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1339.jpg"
+    },
+    {
+        "id": 681,
+        "nome": "",
+        "alterego": "Utgard-Loki",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1484.jpg"
+    },
+    {
+        "id": 682,
+        "nome": "Priscilla Lyons",
+        "alterego": "Vagabond",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/145.jpg"
+    },
+    {
+        "id": 683,
+        "nome": "",
+        "alterego": "Valerie Hart",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1004.jpg"
+    },
+    {
+        "id": 684,
+        "nome": "Brunnhilde (also spelled Brunnhilda)",
+        "alterego": "Valkyrie",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/147.jpg"
+    },
+    {
+        "id": 685,
+        "nome": "",
+        "alterego": "Vanisher",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1105.jpg"
+    },
+    {
+        "id": 686,
+        "nome": "Vegeta",
+        "alterego": "Vegeta",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1206.jpg"
+    },
+    {
+        "id": 687,
+        "nome": "Eddie Brock",
+        "alterego": "Venom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/22.jpg"
+    },
+    {
+        "id": 688,
+        "nome": "Angelo Fortunato",
+        "alterego": "Venom II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1124.jpg"
+    },
+    {
+        "id": 689,
+        "nome": "MacDonald Gargan",
+        "alterego": "Venom III",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1042.jpg"
+    },
+    {
+        "id": 690,
+        "nome": "Wade Wilson",
+        "alterego": "Venompool",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10618.jpg"
+    },
+    {
+        "id": 691,
+        "nome": "-",
+        "alterego": "Vertigo II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/149.jpg"
+    },
+    {
+        "id": 692,
+        "nome": "Cisco Ramon",
+        "alterego": "Vibe",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10509.jpg"
+    },
+    {
+        "id": 693,
+        "nome": "Heather Hudson",
+        "alterego": "Vindicator",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/150.jpg"
+    },
+    {
+        "id": 694,
+        "nome": "Dr. James McDonald Hudson",
+        "alterego": "Vindicator",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/530.jpg"
+    },
+    {
+        "id": 695,
+        "nome": "",
+        "alterego": "Violator",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1064.jpg"
+    },
+    {
+        "id": 696,
+        "nome": "Violet Parr",
+        "alterego": "Violet Parr",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/825.jpg"
+    },
+    {
+        "id": 697,
+        "nome": "Vision",
+        "alterego": "Vision",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/532.jpg"
+    },
+    {
+        "id": 698,
+        "nome": "Vision",
+        "alterego": "Vision II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/151.jpg"
+    },
+    {
+        "id": 699,
+        "nome": "Mari McCabe",
+        "alterego": "Vixen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10109.jpg"
+    },
+    {
+        "id": 700,
+        "nome": "Gabriel Summers",
+        "alterego": "Vulcan",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/854.jpg"
+    },
+    {
+        "id": 701,
+        "nome": "Adrian Toomes",
+        "alterego": "Vulture",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1031.jpg"
+    },
+    {
+        "id": 702,
+        "nome": "Hubert Carpent",
+        "alterego": "Walrus",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10058.jpg"
+    },
+    {
+        "id": 703,
+        "nome": "James Rupert Rhodes",
+        "alterego": "War Machine",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/536.jpg"
+    },
+    {
+        "id": 704,
+        "nome": "Carol Danvers",
+        "alterego": "Warbird",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/153.jpg"
+    },
+    {
+        "id": 705,
+        "nome": "Adam Warlock",
+        "alterego": "Warlock",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/154.jpg"
+    },
+    {
+        "id": 706,
+        "nome": "Emil LaSalle",
+        "alterego": "Warp",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1353.jpg"
+    },
+    {
+        "id": 707,
+        "nome": "James Proudstar",
+        "alterego": "Warpath",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/541.jpg"
+    },
+    {
+        "id": 708,
+        "nome": "Janet Van Dyne",
+        "alterego": "Wasp",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/155.jpg"
+    },
+    {
+        "id": 709,
+        "nome": "Uatu",
+        "alterego": "Watcher",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/516.jpg"
+    },
+    {
+        "id": 710,
+        "nome": "Weapon XI",
+        "alterego": "Weapon XI",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1318.jpg"
+    },
+    {
+        "id": 711,
+        "nome": "",
+        "alterego": "White Canary",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10542.jpg"
+    },
+    {
+        "id": 712,
+        "nome": "Emma Grace Frost",
+        "alterego": "White Queen",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/157.jpg"
+    },
+    {
+        "id": 713,
+        "nome": "Drake Burroughs",
+        "alterego": "Wildfire",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1186.jpg"
+    },
+    {
+        "id": 714,
+        "nome": "Bucky Barnes",
+        "alterego": "Winter Soldier",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10027.jpg"
+    },
+    {
+        "id": 715,
+        "nome": "Takashi Matsuya",
+        "alterego": "Wiz Kid",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/159.jpg"
+    },
+    {
+        "id": 716,
+        "nome": "Rahne Sinclair",
+        "alterego": "Wolfsbane",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/160.jpg"
+    },
+    {
+        "id": 717,
+        "nome": "Logan",
+        "alterego": "Wolverine",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
+    },
+    {
+        "id": 718,
+        "nome": "Cassandra Elizabeth Sandsmark",
+        "alterego": "Wonder Girl",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1497.jpg"
+    },
+    {
+        "id": 719,
+        "nome": "Simon Williams",
+        "alterego": "Wonder Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/162.jpg"
+    },
+    {
+        "id": 720,
+        "nome": "Diana Prince",
+        "alterego": "Wonder Woman",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg"
+    },
+    {
+        "id": 721,
+        "nome": "",
+        "alterego": "Wondra",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1290.jpg"
+    },
+    {
+        "id": 722,
+        "nome": "Wyatt Wingfoot",
+        "alterego": "Wyatt Wingfoot",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/164.jpg"
+    },
+    {
+        "id": 723,
+        "nome": "Laura Kinney",
+        "alterego": "X-23",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/565.jpg"
+    },
+    {
+        "id": 724,
+        "nome": "Nate Grey",
+        "alterego": "X-Man",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1150.jpg"
+    },
+    {
+        "id": 725,
+        "nome": "",
+        "alterego": "Yellow Claw",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/23.jpg"
+    },
+    {
+        "id": 726,
+        "nome": "Hank Pym",
+        "alterego": "Yellowjacket",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/70.jpg"
+    },
+    {
+        "id": 727,
+        "nome": "Rita DeMara",
+        "alterego": "Yellowjacket II",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/178.jpg"
+    },
+    {
+        "id": 728,
+        "nome": "Ymir",
+        "alterego": "Ymir",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/179.jpg"
+    },
+    {
+        "id": 729,
+        "nome": "Yoda",
+        "alterego": "Yoda",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/10454.jpg"
+    },
+    {
+        "id": 730,
+        "nome": "Zatanna Zatara",
+        "alterego": "Zatanna",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/809.jpg"
+    },
+    {
+        "id": 731,
+        "nome": "Hunter Zolomon",
+        "alterego": "Zoom",
+        "img": "https://www.superherodb.com/pictures2/portraits/10/100/1384.jpg"
+    }
+]
