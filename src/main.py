@@ -87,6 +87,14 @@ def atualizar_banco_herois(qtd_herois):
     with open("herois.json", "w") as arquivo:
         json.dump(herois, arquivo, ensure_ascii=False, indent=4)
 
+def ler_json_herois():
+    if not os.path.exists("./ultimo-heroi.json"):
+        print(f"Erro: O arquivo não existe.")
+        return None
+    
+    with open("herois.json", "r") as arquivo:
+        return json.load(arquivo)
+
 @app.get("/")
 async def home():
     return {"Olá":"Mundo"}
@@ -111,3 +119,7 @@ def atualizar_banco():
         salvar_ultimo_heroi(qtd_heroi_api)
     qtd_herois = ultimo_heroi_salvo()
     atualizar_banco_herois(qtd_herois)
+
+@app.get("/pegar-herois")
+def pegar_herois():
+    return ler_json_herois()
