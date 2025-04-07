@@ -23,23 +23,63 @@ def limpar_dados_busca(dados_sujos):
     resultados = dados_sujos.get('results')
     dados_limpos = []
     for heroi in resultados:
-        nome = heroi["biography"]["full-name"]
-        alter_ego = heroi["name"]
-        img = heroi["image"]["url"]
+        nome = heroi.get("biography", {"full-name" : ""})["full-name"]
+        alter_ego = heroi.get("name", "")
+        img = heroi.get("image", {"url" : ""})["url"]
         dados_limpos.append({"nome" : nome, "alterego" : alter_ego, "img" : img})
     return dados_limpos
 
-def limpar_dados_id(dados_sujos, id_heroi):
-    try: alterego = dados_sujos["name"]
-    except: alterego = ""
+def limpar_dados_id(dados_sujos, id_heroi, pegar_tudo=False):
+    alterego = dados_sujos.get("name", "")
+    img = dados_sujos.get("image", {"url" : ""})["url"]
+    nome = dados_sujos.get("biography", {"full-name" : ""})["full-name"]
 
-    try: img = dados_sujos["image"]["url"]
-    except: img = ""
+    if pegar_tudo == True:
+        poderes = dados_sujos.get("powerstats", {
+            "intelligence": "",
+            "strength": "",
+            "speed": "",
+            "durability": "",
+            "power": "",
+            "combat": ""
+            })
+        biografia = dados_sujos.get("biography", {
+            "full-name": "",
+            "alter-egos": "",
+            "aliases": [""],
+            "place-of-birth": "",
+            "first-appearance": "",
+            "publisher": "",
+            "alignment": ""
+            })
+        aparencia = dados_sujos.get("appearance", {
+            "gender": "",
+            "race": "",
+            "height": [
+                "",
+                ""
+            ],
+            "weight": [
+                "",
+                ""
+            ],
+            "eye-color": "",
+            "hair-color": ""
+            })
+        carreira = dados_sujos.get("work", {
+            "occupation": "",
+            "base": ""
+            })
+        conexoes = dados_sujos.get("connections", {
+            "group-affiliation": "",
+            "relatives": ""
+            })
 
-    try: nome = dados_sujos.get("biography")["full-name"]
-    except: nome = ""
-
-    dados_limpos = {"id" : id_heroi, "nome" : nome, "alterego" : alterego, "img" : img}
+        dados_limpos = {"id" : id_heroi, "nome" : nome, "alterego" : alterego, "img" : img, 
+                        "poderes": poderes, "biografia" : biografia, "aparencia" : aparencia, 
+                        "carreira": carreira, "conexoes": conexoes}
+    else:
+        dados_limpos = {"id" : id_heroi, "nome" : nome, "alterego" : alterego, "img" : img}
     return dados_limpos
 
 def salvar_ultimo_heroi(id):
@@ -111,7 +151,7 @@ def buscar_heroi(nome : str):
     else:
         return {"Erro:": "Não foi possível achar o herói"} 
     
-@app.put("/atualizar-banco")
+@app.get("/atualizar-banco")
 def atualizar_banco():
     url = "https://superheroapi.com/ids.html"
     qtd_heroi_api = BS.verificar_ultimo_heroi(url)
@@ -124,3 +164,14 @@ def atualizar_banco():
 @app.get("/pegar-herois")
 def pegar_herois():
     return ler_json_herois()
+
+@app.get("/detalhes-heroi")
+def detalhes_heroi(id : int):
+    url = f"https://superheroapi.com/api/{chave_api}/{id}"
+    resposta = requests.get(url)
+    if resposta.status_code == 200:
+        dados = resposta.json()
+        dados_limpos = limpar_dados_id(dados, id, pegar_tudo=True)
+        return dados_limpos
+    else:
+        return {"Erro:": "Não foi possível achar o herói"}
