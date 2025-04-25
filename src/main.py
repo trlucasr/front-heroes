@@ -23,10 +23,11 @@ def limpar_dados_busca(dados_sujos):
     resultados = dados_sujos.get('results')
     dados_limpos = []
     for heroi in resultados:
+        id = heroi.get("id", "0")
         nome = heroi.get("biography", {"full-name" : ""})["full-name"]
         alter_ego = heroi.get("name", "")
         img = heroi.get("image", {"url" : ""})["url"]
-        dados_limpos.append({"nome" : nome, "alterego" : alter_ego, "img" : img})
+        dados_limpos.append({"id": id, "nome" : nome, "alterego" : alter_ego, "img" : img})
     return dados_limpos
 
 def limpar_dados_id(dados_sujos, id_heroi, pegar_tudo=False):
