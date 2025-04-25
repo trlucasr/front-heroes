@@ -21,14 +21,12 @@ async function buscarHerois() {
     const resultado = await puxarHerois(inputBusca);
     const cardDiv = document.getElementById('cardHeroi');
     cardDiv.innerHTML = '';
-    console.log(resultado);
 
     for (let i = 0; i < resultado.length; i++){
         let heroi = resultado[i];
 
         const cardBody = document.createElement('div');
         cardBody.classList.add('col');
-
         cardBody.innerHTML = `
           <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="${heroi.img}" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/></img>
@@ -38,7 +36,7 @@ async function buscarHerois() {
               <p class="card-text">Alter-ego: ${heroi.alterego}</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a type="button" href="detalhes.html" class="btn btn-sm btn-outline-secondary">Visualizar</a>
+                  <a type="button" href="detalhes.html?id=${heroi.id}" class="btn btn-sm btn-outline-secondary">Visualizar</a>
                 </div>
               </div>
             </div>
