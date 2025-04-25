@@ -12,7 +12,7 @@
 
     <!-- Axios -->
     <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script> 
-    <script src="index.js"></script>   
+    <script src="detalhes.js"></script>   
 
     <!-- Bootstrap core CSS -->
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -71,9 +71,8 @@
 
   <section class="py-5 text-center container">
     <div class="row py-lg-5">
-      <div class="col-lg-8 col-md-8 mx-auto">
+      <div class="col-lg-8 col-md-8 mx-auto" id="nomeHeroi">
         <h1 class="fw-light">Detalhes sobre: </h1>
-        </p>
       </div>
     </div>
   </section>
@@ -85,23 +84,51 @@
         <div class="col">
           <div class="card shadow-sm">
 
-            <ul class="nav nav-tabs">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Powerstats</a>
+            <ul class="nav nav-tabs" id="heroiTabs" role="tablist">
+              <li class="nav-item" role="presentation">
+                <a class="nav-link active" id="poderes-tab" data-bs-toggle="tab" href="#poderes" role="tab" aria-controls="poderes" aria-selected="true">Poderes</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Biography</a>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="biografia-tab" data-bs-toggle="tab" href="#biografia" role="tab" aria-controls="biografia" aria-selected="false">Biografia</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Appearance</a>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="aparencia-tab" data-bs-toggle="tab" href="#aparencia" role="tab" aria-controls="aparencia" aria-selected="false">Aparência</a>
               </li>            
-              <li class="nav-item">
-                <a class="nav-link" href="#">Work</a>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="trabalho-tab" data-bs-toggle="tab" href="#trabalho" role="tab" aria-controls="trabalho" aria-selected="false">Trabalho</a>
               </li>            
-              <li class="nav-item">
-                <a class="nav-link" href="#">Connections</a>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="conexoes-tab" data-bs-toggle="tab" href="#conexoes" role="tab" aria-controls="conexoes" aria-selected="false">Conexões</a>
               </li>            
             </ul>
+            
+            <div class="tab-content" id="heroiTabContent">
+              <div class="tab-pane fade show active p-3" id="poderes" role="tabpanel" aria-labelledby="poderes-tab">
+                <h4>Poderes do Herói</h4>
+                <p>Aqui você verá informações sobre os poderes deste herói.</p>
+                <div id="poderes-content"></div>
+              </div>
+              <div class="tab-pane fade p-3" id="biografia" role="tabpanel" aria-labelledby="biografia-tab">
+                <h4>Biografia</h4>
+                <p>História e detalhes sobre a origem do herói.</p>
+                <div id="biografia-content"></div>
+              </div>
+              <div class="tab-pane fade p-3" id="aparencia" role="tabpanel" aria-labelledby="aparencia-tab">
+                <h4>Aparência</h4>
+                <p>Características físicas do herói.</p>
+                <div id="aparencia-content"></div>
+              </div>
+              <div class="tab-pane fade p-3" id="trabalho" role="tabpanel" aria-labelledby="trabalho-tab">
+                <h4>Trabalho</h4>
+                <p>Informações sobre a ocupação do herói.</p>
+                <div id="trabalho-content"></div>
+              </div>
+              <div class="tab-pane fade p-3" id="conexoes" role="tabpanel" aria-labelledby="conexoes-tab">
+                <h4>Conexões</h4>
+                <p>Aliados, inimigos e conexões familiares do herói.</p>
+                <div id="conexoes-content"></div>
+              </div>
+            </div>
 
           </div>
         </div>
