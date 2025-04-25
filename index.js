@@ -24,7 +24,6 @@ async function buscarHerois() {
     console.log(resultado);
 
     for (let i = 0; i < resultado.length; i++){
-        console.log('for iniciado ' + i)
         let heroi = resultado[i];
 
         const cardBody = document.createElement('div');
@@ -72,7 +71,7 @@ async function preencherHerois() {
             <p class="card-text">Alter-ego: ${heroi.alterego}</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <a type="button" href="detalhes.html" class="btn btn-sm btn-outline-secondary">Visualizar</a>
+                <a type="button" href="detalhes.html?id=${heroi.id}" class="btn btn-sm btn-outline-secondary">Visualizar</a>
               </div>
             </div>
           </div>
