@@ -1,5 +1,5 @@
 function app() {
-    console.log('Aplicação iniciada')
+    console.log('Aplicação iniciada.')
     preencherDetalhes()
 }
 
@@ -10,7 +10,7 @@ function obterIdHeroi() {
 }
 
 async function obterInformacoesHeroi() {
-    const url = "http://127.0.0.1:8000/detalhes-heroi?id=" + obterIdHeroi();
+    const url = "http://localhost:8000/detalhes-heroi?id=" + obterIdHeroi();
     const response = await axios.get(url);
     return response.data;
 }
@@ -24,7 +24,7 @@ async function preencherDetalhes() {
 
     const conteudoDiv = document.getElementById('heroiTabContent');
     conteudoDiv.innerHTML = `
-            <div class="tab-pane fade show active p-3" id="poderes" role="tabpanel" aria-labelledby="poderes-tab">
+            <div class="tab-pane fade show active p-3" id="estatisticas" role="tabpanel" aria-labelledby="estatisticas-tab">
                 <h4>Estatísticas</h4>
                 <p>Inteligência: ${heroi.poderes.intelligence}<br>
                 Força: ${heroi.poderes.strength}<br>
@@ -52,7 +52,7 @@ async function preencherDetalhes() {
                 Cor do Olho: ${heroi.aparencia["eye-color"]}<br>
                 Cor do Cabelo: ${heroi.aparencia["hair-color"]}</p>
               </div>
-              <div class="tab-pane fade p-3" id="trabalho" role="tabpanel" aria-labelledby="trabalho-tab">
+              <div class="tab-pane fade p-3" id="carreira" role="tabpanel" aria-labelledby="carreira-tab">
                 <h4>Carreira</h4>
                 <p>Ocupação: ${heroi.carreira.occupation}<br>
                 Base: ${heroi.carreira.base}</p>
@@ -63,6 +63,7 @@ async function preencherDetalhes() {
                 Relativos: ${heroi.conexoes.relatives}</p>
               </div>
     `;
+    console.log("Detalhes preenchidos com sucesso!")
 }
 
 app()
